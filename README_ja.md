@@ -1,6 +1,14 @@
 # クーリングクレジット実装・資金循環モデル
 ## Cooling Credit Implementation and Finance Model
 
+[English](README.md) | [日本語](README_ja.md) | [العربية](README_ar.md)
+
+<p align="center">
+  <img src="images/Cooling-Credit-Implementation-and-Finance-JP.png" alt="クーリングクレジット実装・資金循環モデル" width="100%">
+</p>
+
+## Cooling Credit Implementation and Finance Model
+
 **クーリングクレジット実装・資金循環モデル**は、カーボンクレジットの限界を踏まえ、気候対策資金を「排出の帳簿処理」ではなく、実測可能な冷却成果、自然冷却機能の回復、災害・医療・電力・農業・水資源・海洋リスクの低減へ流すための実装フレームワークである。
 
 本モデルは、クーリングクレジットを単なる環境証書ではなく、**熱会計、成果連動型資金循環、防災金融、気候適応投資、自然再生型インフラ投資**を統合する制度として定義する。
