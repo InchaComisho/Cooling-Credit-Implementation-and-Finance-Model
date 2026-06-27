@@ -20,6 +20,12 @@
 - [シミュレーション結果要約](SIMULATION_RESULTS_SUMMARY_ja.md)
 - [効果が弱く見える結果をどう読むか](HOW_TO_READ_WEAK_RESULTS_ja.md)
 
+## 全球冷却・水循環安定化モデル
+
+| シミュレーション | 目的 | 主な出力 |
+|---|---|---|
+| [全球冷却・水循環安定化モデル](global_cooling_hydrological_stabilization_model/README_ja.md) | 局所実証、国家事業、大陸乾燥地ネットワーク、全球協調実装を比較 | リスク圧力指数、回避リスク、局所と全球の差 |
+
 ---
 
 ## 著者

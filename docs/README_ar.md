@@ -21,3 +21,7 @@
 
 - [فهرس حزمة التنفيذ](implementation_package/README_ar.md)
 - [حزمة المحاكاة](../simulations/README_ar.md)
+
+## التبريد العالمي والاستقرار المائي
+
+- [فهرس سيناريو الاستقرار العالمي](global_stabilization_scenario/README_ar.md)

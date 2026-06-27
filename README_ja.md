@@ -625,3 +625,19 @@ CC BY 4.0
 ![Cooling Credit Finance Cash Flow](simulations/cooling_credit_finance_model/outputs/investor_cumulative_cash_flow.png)
 
 [全結果要約](simulations/SIMULATION_RESULTS_SUMMARY_ja.md)も参照。
+
+## 全球冷却・水循環安定化シナリオ
+
+局所的なクーリングクレジット事業は、1都市・1農地・1流域の直接効果だけを見るため、効果が控えめに見える場合がある。しかし都市、農地、森林、乾燥地帯、沿岸、海洋で分散的に自然冷却機能を回復する場合、局所事業では見えない大陸・全球規模の効果が生じる可能性がある。
+
+このシナリオは天候を確定的に制御できると主張しない。分散冷却、雨水保持、土壌水分・植生回復、乾燥地の気化冷却、海洋・沿岸支援が災害を増幅する背景条件を緩和し得るかを評価する概念モデルである。
+
+- [全球安定化シナリオ索引](docs/global_stabilization_scenario/README_ja.md)
+- [全球冷却・水循環安定化](docs/global_stabilization_scenario/GLOBAL_COOLING_AND_HYDROLOGICAL_STABILIZATION_ja.md)
+- [乾燥地帯・超音波ミスト冷却シナリオ](docs/global_stabilization_scenario/DRYLAND_ULTRASONIC_MIST_COOLING_SCENARIO_ja.md)
+- [局所効果と全球効果の違い](docs/global_stabilization_scenario/LOCAL_VS_GLOBAL_EFFECTS_ja.md)
+- [全球安定化シミュレーション](simulations/global_cooling_hydrological_stabilization_model/README_ja.md)
+
+![Global Risk Index Comparison](simulations/global_cooling_hydrological_stabilization_model/outputs/risk_index_comparison.png)
+
+![Local vs Global Gap](simulations/global_cooling_hydrological_stabilization_model/outputs/global_vs_local_gap.png)

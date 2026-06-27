@@ -622,3 +622,19 @@ Cooling Credit, Carbon Credit, Thermal Accounting, Climate Finance, Disaster Pre
 ![Cooling Credit Finance Cash Flow](simulations/cooling_credit_finance_model/outputs/investor_cumulative_cash_flow.png)
 
 انظر [ملخص النتائج الكامل](simulations/SIMULATION_RESULTS_SUMMARY_ar.md).
+
+## سيناريو التبريد العالمي والاستقرار المائي
+
+قد تبدو المشاريع المحلية متواضعة لأنها لا تلتقط التغذية الراجعة القارية أو العالمية. يضيف المستودع سيناريو مفاهيميًا لتقييم استعادة التبريد الطبيعي الموزع.
+
+لا يدعي السيناريو تحكمًا حتميًا بالطقس. يفحص ما إذا كان التبريد والاحتفاظ بالمياه واستعادة التربة والنبات والتبريد التبخري ودعم السواحل والمحيط قد تخفض ظروف الخلفية التي تضخم الكوارث.
+
+- [فهرس سيناريو الاستقرار](docs/global_stabilization_scenario/README_ar.md)
+- [التبريد العالمي والاستقرار المائي](docs/global_stabilization_scenario/GLOBAL_COOLING_AND_HYDROLOGICAL_STABILIZATION_ar.md)
+- [سيناريو الرذاذ في الأراضي الجافة](docs/global_stabilization_scenario/DRYLAND_ULTRASONIC_MIST_COOLING_SCENARIO_ar.md)
+- [الآثار المحلية والعالمية](docs/global_stabilization_scenario/LOCAL_VS_GLOBAL_EFFECTS_ar.md)
+- [محاكاة الاستقرار العالمي](simulations/global_cooling_hydrological_stabilization_model/README_ar.md)
+
+![Global Risk Index Comparison](simulations/global_cooling_hydrological_stabilization_model/outputs/risk_index_comparison.png)
+
+![Local vs Global Gap](simulations/global_cooling_hydrological_stabilization_model/outputs/global_vs_local_gap.png)

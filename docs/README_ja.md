@@ -21,3 +21,7 @@
 
 - [実装パッケージ索引](implementation_package/README_ja.md)
 - [シミュレーション資料](../simulations/README_ja.md)
+
+## 全球冷却・水循環安定化
+
+- [全球安定化シナリオ索引](global_stabilization_scenario/README_ja.md)

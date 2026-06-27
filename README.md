@@ -626,3 +626,19 @@ This repository also includes a practical implementation package and conceptual 
 ![Cooling Credit Finance Cash Flow](simulations/cooling_credit_finance_model/outputs/investor_cumulative_cash_flow.png)
 
 See the [full results summary](simulations/SIMULATION_RESULTS_SUMMARY.md).
+
+## Global Cooling and Hydrological Stabilization Scenario
+
+Local Cooling Credit projects may show modest results because they do not capture continental or global feedback effects. This repository therefore adds a global-scale conceptual scenario for evaluating distributed natural cooling recovery.
+
+The scenario does not claim deterministic weather control. It examines whether distributed cooling, water retention, soil moisture recovery, vegetation recovery, dryland evaporative cooling, and ocean/coastal support could reduce the background conditions that amplify climate-related disasters.
+
+- [Global Stabilization Scenario Index](docs/global_stabilization_scenario/README.md)
+- [Global Cooling and Hydrological Stabilization](docs/global_stabilization_scenario/GLOBAL_COOLING_AND_HYDROLOGICAL_STABILIZATION.md)
+- [Dryland Ultrasonic Mist Cooling Scenario](docs/global_stabilization_scenario/DRYLAND_ULTRASONIC_MIST_COOLING_SCENARIO.md)
+- [Local vs Global Effects](docs/global_stabilization_scenario/LOCAL_VS_GLOBAL_EFFECTS.md)
+- [Global Stabilization Simulation](simulations/global_cooling_hydrological_stabilization_model/README.md)
+
+![Global Risk Index Comparison](simulations/global_cooling_hydrological_stabilization_model/outputs/risk_index_comparison.png)
+
+![Local vs Global Gap](simulations/global_cooling_hydrological_stabilization_model/outputs/global_vs_local_gap.png)

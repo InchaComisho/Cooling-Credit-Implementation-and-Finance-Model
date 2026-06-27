@@ -20,6 +20,12 @@ This is a conceptual decision-support package, not a forecast. Results are sensi
 - [Simulation Results Summary](SIMULATION_RESULTS_SUMMARY.md)
 - [How to Read Weak Results](HOW_TO_READ_WEAK_RESULTS.md)
 
+## Global Cooling and Hydrological Stabilization Model
+
+| Simulation | Purpose | Main Outputs |
+|---|---|---|
+| [Global Cooling and Hydrological Stabilization](global_cooling_hydrological_stabilization_model/README.md) | Compare local pilots, national programs, continental dryland networks, and global coordinated implementation | risk-pressure index, avoided risk, local-global gap |
+
 ---
 
 ## Author
