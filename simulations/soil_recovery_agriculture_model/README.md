@@ -29,6 +29,52 @@ Read annual category charts before cumulative charts; payback is the first year 
 
 This is a conceptual decision-support model, not a forecast. All assumptions are transparent and should be replaced with local measured data before policy or investment decisions. It does not model every interaction, distributional effect, tax, financing structure, uncertainty, displacement, or extreme tail. Avoid double counting across benefit categories and obtain engineering, actuarial, financial, and legal review.
 
+## Base-Case Results
+
+| Indicator | Result |
+|---|---:|
+| Evaluation period | 20 years |
+| Payback | No payback under defaults |
+| Main benefits | Yield stability, drought-loss and input-cost reduction |
+| Main constraint | Direct farm cash flow is insufficient |
+| Interpretation | Needs wider food, water, public, or supply-chain valuation |
+
+Under default assumptions, the soil-recovery model does not pay back. This is not a failed model; it shows that direct farm revenue alone may not recover restoration cost. Public support, food-security value, water-risk pricing, supply-chain payments, longer horizons, and regional employment may need explicit appraisal.
+
+## Output Graphs
+
+### Yield Comparison
+
+![Yield Comparison](outputs/yield_comparison.png)
+
+### Soil Moisture Index
+
+![Soil Moisture Index](outputs/soil_moisture_index.png)
+
+### Agricultural Net Benefit
+
+![Agricultural Net Benefit](outputs/agricultural_net_benefit.png)
+
+### Input Cost Savings
+
+![Input Cost Savings](outputs/input_cost_savings.png)
+
+### Agriculture ROI Sensitivity
+
+![Agriculture ROI Sensitivity](outputs/agriculture_roi_sensitivity.png)
+
+## Scenario Comparison
+
+![Scenario Payback Comparison](outputs/scenario_payback_comparison.png)
+
+This chart compares Conservative, Base, and High-risk future cases. The case for Cooling Credits depends not on one base case alone, but on avoided losses if heat, disaster, medical, and energy burdens rise. Scenarios are structured tests, not probabilities.
+
+The underlying values are available in [`outputs/scenario_comparison.csv`](outputs/scenario_comparison.csv).
+
+## How to Read Weak Results
+
+See [How to Read Weak Results](../HOW_TO_READ_WEAK_RESULTS.md) for guidance on public support, missing benefit categories, MRV, and appraisal horizons.
+
 ---
 
 ## Author

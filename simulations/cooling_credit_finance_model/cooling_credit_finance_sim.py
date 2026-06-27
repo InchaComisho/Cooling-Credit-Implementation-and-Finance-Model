@@ -66,4 +66,26 @@ prices=[20,35,50,70];npvs=[]
 for p in prices:
     g=municipal+insurance+utility+real_estate+agri_tourism+units*p; pre=g-opex-fixed;r=np.maximum(pre,0)*reserve_rate;c=np.maximum(pre-r,0)*community_return_rate;d=pre-r-c;npvs.append((np.sum(d/discount)-initial_project_portfolio_capex)/1e6)
 plt.figure(figsize=(8,5));plt.plot(prices,npvs,marker="o");plt.xlabel("Cooling Credit price");plt.ylabel("Investor NPV (million)");plt.title("Credit Price Sensitivity");save("credit_price_sensitivity.png")
+scenarios = {
+    "Conservative": {"cooling_credit_price": 20, "revenue_growth_rate": 0.01},
+    "Base": {"cooling_credit_price": 35, "revenue_growth_rate": 0.02},
+    "High-risk future": {"cooling_credit_price": 55, "revenue_growth_rate": 0.035},
+}
+scenario_rows=[]
+for name,s in scenarios.items():
+    sg=(1+s["revenue_growth_rate"])**(y-1)
+    soutcome=(municipal_outcome_payment_initial+insurance_risk_payment_initial+utility_peak_reduction_payment_initial+real_estate_value_capture_initial+agriculture_tourism_benefit_share_initial)*sg
+    sgross=soutcome+units*s["cooling_credit_price"]
+    spre=sgross-opex-fixed
+    sreserve=np.maximum(spre,0)*reserve_rate
+    scommunity=np.maximum(spre-sreserve,0)*community_return_rate
+    sd=spre-sreserve-scommunity
+    scash=sd.copy();scash[0]-=initial_project_portfolio_capex
+    scenario_rows.append({"scenario":name,"npv":np.sum(sd/discount)-initial_project_portfolio_capex,"roi":scash.sum()/initial_project_portfolio_capex,"payback_year":payback_year(np.cumsum(scash))})
+scenario_df=pd.DataFrame(scenario_rows);scenario_df.to_csv(OUT/"scenario_comparison.csv",index=False)
+plot_values=scenario_df["payback_year"].fillna(years+1)
+plt.figure(figsize=(8,5));bars=plt.bar(scenario_df["scenario"],plot_values)
+for bar,value in zip(bars,scenario_df["payback_year"]):plt.text(bar.get_x()+bar.get_width()/2,bar.get_height()+0.3,"No payback" if pd.isna(value) else f"Year {int(value)}",ha="center")
+plt.ylim(0,years+3);plt.ylabel("Payback year");plt.title("Finance Scenario Payback Comparison");save("scenario_payback_comparison.png")
+
 print(f"Finance model: NPV={npv:,.0f}, ROI={roi:.1%}, payback year={payback or 'not reached'}")

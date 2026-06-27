@@ -29,6 +29,52 @@ python disaster_risk_avoidance_sim.py
 
 هذا نموذج مفاهيمي لدعم القرار، وليس توقعًا دقيقًا. يجب استبدال الافتراضات ببيانات محلية مقاسة قبل استخدامه في قرارات السياسة أو الاستثمار. لا يغطي كل التفاعلات والتوزيع والضرائب والتمويل وعدم اليقين والتهجير والذيل المتطرف. يمنع العد المزدوج وتطلب مراجعة هندسية واكتوارية ومالية وقانونية.
 
+## نتائج الحالة الأساسية
+
+| المؤشر | النتيجة |
+|---|---:|
+| فترة التقييم | 20 سنة |
+| الاسترداد | السنة 12 |
+| المنفعة | تجنب خسارة الفيضان ودفع التأمين |
+| القيد | الحساسية لاحتمال الحدث وشدته |
+| التفسير | للتأمين والبلديات وتخطيط الأحواض |
+
+تعتمد المنفعة على تكرار الفيضان وشدته وإسناد الأثر للتسرب والتخزين. تسترد الحالة الأساسية في السنة 12.
+
+## الرسوم الناتجة
+
+### Flood Expected Annual Loss
+
+![Flood Expected Annual Loss](outputs/flood_expected_annual_loss.png)
+
+### Runoff and Infiltration Indices
+
+![Runoff and Infiltration Indices](outputs/runoff_and_infiltration_indices.png)
+
+### Cumulative Avoided Flood Loss
+
+![Cumulative Avoided Flood Loss](outputs/cumulative_avoided_flood_loss.png)
+
+### Disaster Model Payback
+
+![Disaster Model Payback](outputs/disaster_model_payback.png)
+
+### Risk Growth Sensitivity
+
+![Risk Growth Sensitivity](outputs/risk_growth_sensitivity.png)
+
+## مقارنة السيناريوهات
+
+![Scenario Payback Comparison](outputs/scenario_payback_comparison.png)
+
+يقارن الرسم الحالات المحافظة والأساسية والمستقبل عالي المخاطر. تظهر أهمية الأرصدة عند مقارنة الخسائر المتجنبة إذا ارتفعت أعباء الحر والكوارث والصحة والطاقة؛ وهذه اختبارات وليست احتمالات.
+
+تتوفر القيم الأساسية في [`outputs/scenario_comparison.csv`](outputs/scenario_comparison.csv).
+
+## كيفية قراءة النتائج الضعيفة
+
+See [كيفية قراءة النتائج الضعيفة](../HOW_TO_READ_WEAK_RESULTS_ar.md) for guidance on public support, missing benefit categories, MRV, and appraisal horizons.
+
 ---
 
 ## المؤلف

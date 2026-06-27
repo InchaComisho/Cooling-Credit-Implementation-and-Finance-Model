@@ -29,6 +29,52 @@ python soil_recovery_agriculture_sim.py
 
 هذا نموذج مفاهيمي لدعم القرار، وليس توقعًا دقيقًا. يجب استبدال الافتراضات ببيانات محلية مقاسة قبل استخدامه في قرارات السياسة أو الاستثمار. لا يغطي كل التفاعلات والتوزيع والضرائب والتمويل وعدم اليقين والتهجير والذيل المتطرف. يمنع العد المزدوج وتطلب مراجعة هندسية واكتوارية ومالية وقانونية.
 
+## نتائج الحالة الأساسية
+
+| المؤشر | النتيجة |
+|---|---:|
+| فترة التقييم | 20 سنة |
+| الاسترداد | لا استرداد في الافتراضات الأساسية |
+| المنافع | استقرار الغلة وخفض الجفاف والمدخلات |
+| القيد | التدفق الزراعي المباشر غير كافٍ |
+| التفسير | يلزم تقييم الغذاء والماء والدعم وسلسلة الإمداد |
+
+لا تسترد الحالة الأساسية التكلفة. هذه نتيجة مفيدة لا فشلًا: قد يلزم دعم عام وتقييم الأمن الغذائي وتسعير مخاطر المياه ومدفوعات سلسلة الإمداد وأفق أطول.
+
+## الرسوم الناتجة
+
+### Yield Comparison
+
+![Yield Comparison](outputs/yield_comparison.png)
+
+### Soil Moisture Index
+
+![Soil Moisture Index](outputs/soil_moisture_index.png)
+
+### Agricultural Net Benefit
+
+![Agricultural Net Benefit](outputs/agricultural_net_benefit.png)
+
+### Input Cost Savings
+
+![Input Cost Savings](outputs/input_cost_savings.png)
+
+### Agriculture ROI Sensitivity
+
+![Agriculture ROI Sensitivity](outputs/agriculture_roi_sensitivity.png)
+
+## مقارنة السيناريوهات
+
+![Scenario Payback Comparison](outputs/scenario_payback_comparison.png)
+
+يقارن الرسم الحالات المحافظة والأساسية والمستقبل عالي المخاطر. تظهر أهمية الأرصدة عند مقارنة الخسائر المتجنبة إذا ارتفعت أعباء الحر والكوارث والصحة والطاقة؛ وهذه اختبارات وليست احتمالات.
+
+تتوفر القيم الأساسية في [`outputs/scenario_comparison.csv`](outputs/scenario_comparison.csv).
+
+## كيفية قراءة النتائج الضعيفة
+
+See [كيفية قراءة النتائج الضعيفة](../HOW_TO_READ_WEAK_RESULTS_ar.md) for guidance on public support, missing benefit categories, MRV, and appraisal horizons.
+
 ---
 
 ## المؤلف

@@ -29,6 +29,52 @@ python urban_cooling_cost_benefit_sim.py
 
 これは予測モデルではなく、意思決定支援のための概念シミュレーションである。政策判断・投資判断に使う場合は、地域の実測データで前提値を置き換える必要がある。相互作用、分配、税・資金構造、不確実性、立退き、極端尾部を網羅しない。便益の二重計上を避け、工学・保険数理・金融・法務レビューを行う。
 
+## 基本ケース結果
+
+| 指標 | 結果 |
+|---|---:|
+| 評価期間 | 20年 |
+| 投資回収年 | 11年目 |
+| 主な便益 | 医療費削減、冷房電力削減、熱害損失削減、クレジット収益 |
+| 主な制約 | 初期投資、維持管理費、MRV費用 |
+| 解釈 | 中期以降に回避損失が蓄積する自治体向けモデル |
+
+累積図は、初期投資により短期の実装負担が大きい一方、回避医療費、冷房電力費、熱害損失が蓄積し、基本ケースでは11年目前後に回収へ至ることを示す。
+
+## 出力グラフ
+
+### Cumulative Cost Comparison
+
+![Cumulative Cost Comparison](outputs/cumulative_cost_comparison.png)
+
+### Annual Avoided Costs
+
+![Annual Avoided Costs](outputs/annual_avoided_costs.png)
+
+### Net Benefit and Payback
+
+![Net Benefit and Payback](outputs/net_benefit_and_payback.png)
+
+### Cooling Indicators
+
+![Cooling Indicators](outputs/cooling_indicators.png)
+
+### ROI Sensitivity
+
+![ROI Sensitivity](outputs/roi_sensitivity.png)
+
+## シナリオ比較
+
+![Scenario Payback Comparison](outputs/scenario_payback_comparison.png)
+
+この図は保守、基本、高リスク将来ケースの投資回収を比較する。重要性は基本ケースだけでなく、熱害・災害・医療費・電力費が上振れした場合の回避損失との比較で明確になる。各ケースは確率予測ではない。
+
+基礎数値は[`outputs/scenario_comparison.csv`](outputs/scenario_comparison.csv)に記録している。
+
+## 弱い結果の読み方
+
+See [弱い結果の読み方](../HOW_TO_READ_WEAK_RESULTS_ja.md) for guidance on public support, missing benefit categories, MRV, and appraisal horizons.
+
 ---
 
 ## 著者

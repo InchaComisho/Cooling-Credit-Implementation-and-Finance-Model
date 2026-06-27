@@ -29,6 +29,52 @@ Read annual category charts before cumulative charts; payback is the first year 
 
 This is a conceptual decision-support model, not a forecast. All assumptions are transparent and should be replaced with local measured data before policy or investment decisions. It does not model every interaction, distributional effect, tax, financing structure, uncertainty, displacement, or extreme tail. Avoid double counting across benefit categories and obtain engineering, actuarial, financial, and legal review.
 
+## Base-Case Results
+
+| Indicator | Result |
+|---|---:|
+| Evaluation period | 20 years |
+| Payback | Year 12 |
+| Main benefit | Expected flood-loss avoidance and insurer payment |
+| Main constraint | Sensitivity to event probability and loss severity |
+| Interpretation | Suitable for insurer, municipal, and watershed appraisal |
+
+Benefits depend strongly on flood frequency, severity, and attribution to infiltration and storage. The base case pays back in year 12; the scenario chart makes this dependence explicit.
+
+## Output Graphs
+
+### Flood Expected Annual Loss
+
+![Flood Expected Annual Loss](outputs/flood_expected_annual_loss.png)
+
+### Runoff and Infiltration Indices
+
+![Runoff and Infiltration Indices](outputs/runoff_and_infiltration_indices.png)
+
+### Cumulative Avoided Flood Loss
+
+![Cumulative Avoided Flood Loss](outputs/cumulative_avoided_flood_loss.png)
+
+### Disaster Model Payback
+
+![Disaster Model Payback](outputs/disaster_model_payback.png)
+
+### Risk Growth Sensitivity
+
+![Risk Growth Sensitivity](outputs/risk_growth_sensitivity.png)
+
+## Scenario Comparison
+
+![Scenario Payback Comparison](outputs/scenario_payback_comparison.png)
+
+This chart compares Conservative, Base, and High-risk future cases. The case for Cooling Credits depends not on one base case alone, but on avoided losses if heat, disaster, medical, and energy burdens rise. Scenarios are structured tests, not probabilities.
+
+The underlying values are available in [`outputs/scenario_comparison.csv`](outputs/scenario_comparison.csv).
+
+## How to Read Weak Results
+
+See [How to Read Weak Results](../HOW_TO_READ_WEAK_RESULTS.md) for guidance on public support, missing benefit categories, MRV, and appraisal horizons.
+
 ---
 
 ## Author

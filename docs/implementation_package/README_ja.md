@@ -26,6 +26,27 @@
 
 ベースライン、限定的実証、物理・経済成果の検証、根拠ある単位のみの発行、成果支払契約、独立評価後の拡大という順序を採用する。無対策と実装の比較境界・期間・割引方法を統一する。
 
+## シミュレーションから見える実装優先順位
+
+| 優先度 | 領域 | 理由 |
+|---:|---|---|
+| 1 | クーリングクレジット金融モデル | 複数収益源を束ねることで9年目回収となり、SPV・ファンド化に向く |
+| 2 | 都市冷却モデル | 11年目回収で、自治体・学校・病院・高齢者施設周辺の実証に向く |
+| 3 | 防災・洪水リスク回避モデル | 12年目回収で、保険会社・流域自治体との連携に向く |
+| 4 | 土壌回復・農業モデル | 基本ケースでは未回収だが、食料安全保障・水リスク・公的支援を含めるべき領域 |
+
+[結果要約](../../simulations/SIMULATION_RESULTS_SUMMARY_ja.md)と[弱い結果の読み方](../../simulations/HOW_TO_READ_WEAK_RESULTS_ja.md)も参照。
+
+### 代表グラフ
+
+![Urban Cooling Cumulative Cost](../../simulations/urban_cooling_cost_benefit_model/outputs/cumulative_cost_comparison.png)
+
+![Finance Cumulative Cash Flow](../../simulations/cooling_credit_finance_model/outputs/investor_cumulative_cash_flow.png)
+
+![Disaster Avoided Flood Loss](../../simulations/disaster_risk_avoidance_model/outputs/cumulative_avoided_flood_loss.png)
+
+![Agriculture Net Benefit](../../simulations/soil_recovery_agriculture_model/outputs/agricultural_net_benefit.png)
+
 ---
 
 ## 著者

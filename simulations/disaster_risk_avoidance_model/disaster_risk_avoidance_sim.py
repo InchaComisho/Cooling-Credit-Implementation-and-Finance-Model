@@ -59,4 +59,21 @@ rates=[0.01,0.025,0.04]; vals=[]
 for r in rates:
     e=annual_extreme_rain_event_probability*baseline_flood_loss_per_event*(1+r)**(y-1); a=e*runoff_reduction_rate; b=a+insurance_risk_reduction_payment-annual_opex-annual_mrv_cost;vals.append((np.sum(b/(1+discount_rate)**y)-capex)/1e6)
 plt.figure(figsize=(8,5));plt.bar(["Low 1.0%","Medium 2.5%","High 4.0%"],vals);plt.ylabel("NPV (million)");plt.title("Sensitivity to Flood-Risk Growth");save("risk_growth_sensitivity.png")
+scenarios = {
+    "Conservative": {"annual_extreme_rain_event_probability": 0.12, "annual_risk_growth_rate": 0.015},
+    "Base": {"annual_extreme_rain_event_probability": 0.18, "annual_risk_growth_rate": 0.025},
+    "High-risk future": {"annual_extreme_rain_event_probability": 0.25, "annual_risk_growth_rate": 0.04},
+}
+scenario_rows = []
+for name, s in scenarios.items():
+    seal = s["annual_extreme_rain_event_probability"] * baseline_flood_loss_per_event * (1+s["annual_risk_growth_rate"])**(y-1)
+    sb = seal * runoff_reduction_rate + insurance_risk_reduction_payment - annual_opex - annual_mrv_cost
+    scash = sb.copy(); scash[0] -= capex
+    scenario_rows.append({"scenario":name, "npv":np.sum(sb/discount)-capex, "roi":scash.sum()/capex, "payback_year":payback_year(np.cumsum(scash))})
+scenario_df=pd.DataFrame(scenario_rows); scenario_df.to_csv(OUT/"scenario_comparison.csv",index=False)
+plot_values=scenario_df["payback_year"].fillna(years+1)
+plt.figure(figsize=(8,5)); bars=plt.bar(scenario_df["scenario"],plot_values)
+for bar,value in zip(bars,scenario_df["payback_year"]): plt.text(bar.get_x()+bar.get_width()/2,bar.get_height()+0.3,"No payback" if pd.isna(value) else f"Year {int(value)}",ha="center")
+plt.ylim(0,years+3);plt.ylabel("Payback year");plt.title("Disaster-Risk Scenario Payback Comparison");save("scenario_payback_comparison.png")
+
 print(f"Disaster model: runoff reduction={runoff_reduction_rate:.1%}, NPV={npv:,.0f}, ROI={roi:.1%}, payback year={payback or 'not reached'}")

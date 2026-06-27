@@ -29,6 +29,52 @@ python cooling_credit_finance_sim.py
 
 هذا نموذج مفاهيمي لدعم القرار، وليس توقعًا دقيقًا. يجب استبدال الافتراضات ببيانات محلية مقاسة قبل استخدامه في قرارات السياسة أو الاستثمار. لا يغطي كل التفاعلات والتوزيع والضرائب والتمويل وعدم اليقين والتهجير والذيل المتطرف. يمنع العد المزدوج وتطلب مراجعة هندسية واكتوارية ومالية وقانونية.
 
+## نتائج الحالة الأساسية
+
+| المؤشر | النتيجة |
+|---|---:|
+| فترة التقييم | 20 سنة |
+| الاسترداد | السنة 9 |
+| المنفعة | إيرادات تعاقدية متنوعة مع الرصيد |
+| القيد | مخاطر الطرف والتنفيذ والسعر |
+| التفسير | أقوى مرشح لهيكل SPV / صندوق |
+
+يوضح تكديس الإيراد قوة المحفظة مقابل مشروع يعتمد على الرصيد وحده، وتسترد الحالة الأساسية في السنة 9.
+
+## الرسوم الناتجة
+
+### Revenue Stack
+
+![Revenue Stack](outputs/revenue_stack.png)
+
+### Cash Flow Waterfall
+
+![Cash Flow Waterfall](outputs/cash_flow_waterfall.png)
+
+### Investor Cumulative Cash Flow
+
+![Investor Cumulative Cash Flow](outputs/investor_cumulative_cash_flow.png)
+
+### NPV ROI Payback
+
+![NPV ROI Payback](outputs/npv_roi_payback.png)
+
+### Credit Price Sensitivity
+
+![Credit Price Sensitivity](outputs/credit_price_sensitivity.png)
+
+## مقارنة السيناريوهات
+
+![Scenario Payback Comparison](outputs/scenario_payback_comparison.png)
+
+يقارن الرسم الحالات المحافظة والأساسية والمستقبل عالي المخاطر. تظهر أهمية الأرصدة عند مقارنة الخسائر المتجنبة إذا ارتفعت أعباء الحر والكوارث والصحة والطاقة؛ وهذه اختبارات وليست احتمالات.
+
+تتوفر القيم الأساسية في [`outputs/scenario_comparison.csv`](outputs/scenario_comparison.csv).
+
+## كيفية قراءة النتائج الضعيفة
+
+See [كيفية قراءة النتائج الضعيفة](../HOW_TO_READ_WEAK_RESULTS_ar.md) for guidance on public support, missing benefit categories, MRV, and appraisal horizons.
+
 ---
 
 ## المؤلف

@@ -29,6 +29,52 @@ python cooling_credit_finance_sim.py
 
 これは予測モデルではなく、意思決定支援のための概念シミュレーションである。政策判断・投資判断に使う場合は、地域の実測データで前提値を置き換える必要がある。相互作用、分配、税・資金構造、不確実性、立退き、極端尾部を網羅しない。便益の二重計上を避け、工学・保険数理・金融・法務レビューを行う。
 
+## 基本ケース結果
+
+| 指標 | 結果 |
+|---|---:|
+| 評価期間 | 20年 |
+| 投資回収年 | 9年目 |
+| 主な便益 | 複数の契約収入とクレジット収入 |
+| 主な制約 | 相手先・成果・価格リスク |
+| 解釈 | SPV・ファンド設計に最も向く |
+
+収入積層図は、クレジット単独よりポートフォリオが強い理由を示す。契約成果収入、準備金、地域還元、投資家分配を可視化し、基本ケースは9年目に回収する。
+
+## 出力グラフ
+
+### Revenue Stack
+
+![Revenue Stack](outputs/revenue_stack.png)
+
+### Cash Flow Waterfall
+
+![Cash Flow Waterfall](outputs/cash_flow_waterfall.png)
+
+### Investor Cumulative Cash Flow
+
+![Investor Cumulative Cash Flow](outputs/investor_cumulative_cash_flow.png)
+
+### NPV ROI Payback
+
+![NPV ROI Payback](outputs/npv_roi_payback.png)
+
+### Credit Price Sensitivity
+
+![Credit Price Sensitivity](outputs/credit_price_sensitivity.png)
+
+## シナリオ比較
+
+![Scenario Payback Comparison](outputs/scenario_payback_comparison.png)
+
+この図は保守、基本、高リスク将来ケースの投資回収を比較する。重要性は基本ケースだけでなく、熱害・災害・医療費・電力費が上振れした場合の回避損失との比較で明確になる。各ケースは確率予測ではない。
+
+基礎数値は[`outputs/scenario_comparison.csv`](outputs/scenario_comparison.csv)に記録している。
+
+## 弱い結果の読み方
+
+See [弱い結果の読み方](../HOW_TO_READ_WEAK_RESULTS_ja.md) for guidance on public support, missing benefit categories, MRV, and appraisal horizons.
+
 ---
 
 ## 著者

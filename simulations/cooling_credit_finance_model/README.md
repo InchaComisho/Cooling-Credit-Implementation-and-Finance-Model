@@ -29,6 +29,52 @@ Read annual category charts before cumulative charts; payback is the first year 
 
 This is a conceptual decision-support model, not a forecast. All assumptions are transparent and should be replaced with local measured data before policy or investment decisions. It does not model every interaction, distributional effect, tax, financing structure, uncertainty, displacement, or extreme tail. Avoid double counting across benefit categories and obtain engineering, actuarial, financial, and legal review.
 
+## Base-Case Results
+
+| Indicator | Result |
+|---|---:|
+| Evaluation period | 20 years |
+| Payback | Year 9 |
+| Main benefit | Diversified contracted revenue plus credit revenue |
+| Main constraint | Counterparty, delivery, and credit-price risk |
+| Interpretation | Strongest candidate for an SPV/fund structure |
+
+The revenue stack shows why a portfolio is stronger than a credit-only project. Contracted outcome revenues, reserves, community return, and investor distributions remain visible; the base case pays back in year 9.
+
+## Output Graphs
+
+### Revenue Stack
+
+![Revenue Stack](outputs/revenue_stack.png)
+
+### Cash Flow Waterfall
+
+![Cash Flow Waterfall](outputs/cash_flow_waterfall.png)
+
+### Investor Cumulative Cash Flow
+
+![Investor Cumulative Cash Flow](outputs/investor_cumulative_cash_flow.png)
+
+### NPV ROI Payback
+
+![NPV ROI Payback](outputs/npv_roi_payback.png)
+
+### Credit Price Sensitivity
+
+![Credit Price Sensitivity](outputs/credit_price_sensitivity.png)
+
+## Scenario Comparison
+
+![Scenario Payback Comparison](outputs/scenario_payback_comparison.png)
+
+This chart compares Conservative, Base, and High-risk future cases. The case for Cooling Credits depends not on one base case alone, but on avoided losses if heat, disaster, medical, and energy burdens rise. Scenarios are structured tests, not probabilities.
+
+The underlying values are available in [`outputs/scenario_comparison.csv`](outputs/scenario_comparison.csv).
+
+## How to Read Weak Results
+
+See [How to Read Weak Results](../HOW_TO_READ_WEAK_RESULTS.md) for guidance on public support, missing benefit categories, MRV, and appraisal horizons.
+
 ---
 
 ## Author

@@ -26,6 +26,27 @@ The analytical question is whether measured avoided medical, energy, disaster, i
 
 Establish a baseline, implement a bounded pilot, verify physical and economic outcomes, issue only defensible units, contract outcome payments, and scale after independent review. No-action and implementation scenarios must use the same boundary, time horizon, and discounting rules.
 
+## Implementation Priority Indicated by the Simulations
+
+| Priority | Area | Reason |
+|---:|---|---|
+| 1 | Cooling Credit Finance | Year-9 payback from multiple revenues; suited to SPV/fund design |
+| 2 | Urban Cooling | Year-11 payback; suited to municipal schools, hospitals, and care facilities |
+| 3 | Disaster/Flood Risk | Year-12 payback; suited to insurer and watershed partnerships |
+| 4 | Soil Recovery/Agriculture | No default payback; requires food, water, supply-chain, or public value |
+
+See the [results summary](../../simulations/SIMULATION_RESULTS_SUMMARY.md) and [weak-results guide](../../simulations/HOW_TO_READ_WEAK_RESULTS.md).
+
+### Representative Graphs
+
+![Urban Cooling Cumulative Cost](../../simulations/urban_cooling_cost_benefit_model/outputs/cumulative_cost_comparison.png)
+
+![Finance Cumulative Cash Flow](../../simulations/cooling_credit_finance_model/outputs/investor_cumulative_cash_flow.png)
+
+![Disaster Avoided Flood Loss](../../simulations/disaster_risk_avoidance_model/outputs/cumulative_avoided_flood_loss.png)
+
+![Agriculture Net Benefit](../../simulations/soil_recovery_agriculture_model/outputs/agricultural_net_benefit.png)
+
 ---
 
 ## Author

@@ -611,3 +611,18 @@ This repository also includes a practical implementation package and conceptual 
 - [Government Decision Brief](docs/implementation_package/GOVERNMENT_DECISION_BRIEF.md)
 - [Insurance and Risk Reduction Model](docs/implementation_package/INSURANCE_AND_RISK_REDUCTION_MODEL.md)
 - [Simulation Package](simulations/README.md)
+
+### Base-Case Simulation Results
+
+| Model | Payback | Implementation implication |
+|---|---:|---|
+| Cooling Credit Finance | Year 9 | Diversified SPV/fund structure is promising |
+| Urban Cooling | Year 11 | Suitable for municipal facility pilots |
+| Disaster/Flood Risk | Year 12 | Suitable for insurer and watershed partnerships |
+| Soil Recovery/Agriculture | No default payback | Needs public, food-company, water-risk, or food-security value |
+
+![Urban Cooling Cost Comparison](simulations/urban_cooling_cost_benefit_model/outputs/cumulative_cost_comparison.png)
+
+![Cooling Credit Finance Cash Flow](simulations/cooling_credit_finance_model/outputs/investor_cumulative_cash_flow.png)
+
+See the [full results summary](simulations/SIMULATION_RESULTS_SUMMARY.md).

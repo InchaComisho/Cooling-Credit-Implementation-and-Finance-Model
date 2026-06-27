@@ -607,3 +607,18 @@ Cooling Credit, Carbon Credit, Thermal Accounting, Climate Finance, Disaster Pre
 - [موجز قرار للحكومات](docs/implementation_package/GOVERNMENT_DECISION_BRIEF_ar.md)
 - [نموذج التأمين وخفض المخاطر](docs/implementation_package/INSURANCE_AND_RISK_REDUCTION_MODEL_ar.md)
 - [حزمة المحاكاة](simulations/README_ar.md)
+
+### نتائج المحاكاة الأساسية
+
+| النموذج | الاسترداد | دلالة التنفيذ |
+|---|---:|---|
+| تمويل أرصدة التبريد | السنة 9 | هيكل SPV/صندوق متعدد الإيرادات واعد |
+| التبريد الحضري | السنة 11 | مناسب لتجارب المرافق البلدية |
+| مخاطر الفيضان | السنة 12 | مناسب للتأمين وشراكات الأحواض |
+| التربة والزراعة | لا استرداد افتراضي | يلزم دعم وقيمة الغذاء والمياه وسلسلة الإمداد |
+
+![Urban Cooling Cost Comparison](simulations/urban_cooling_cost_benefit_model/outputs/cumulative_cost_comparison.png)
+
+![Cooling Credit Finance Cash Flow](simulations/cooling_credit_finance_model/outputs/investor_cumulative_cash_flow.png)
+
+انظر [ملخص النتائج الكامل](simulations/SIMULATION_RESULTS_SUMMARY_ar.md).

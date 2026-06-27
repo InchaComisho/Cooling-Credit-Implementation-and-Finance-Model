@@ -93,4 +93,29 @@ for r in rates:
     g=(1+r)**(y-1); av=(initial_medical_cost*g*heatstroke_reduction_rate + initial_cooling_energy_cost*g*cooling_energy_reduction_rate + initial_disaster_related_heat_cost*g*disaster_heat_loss_reduction_rate)
     cf=av+credit_revenue-operating; rois.append((cf.sum()-capex)/capex*100)
 plt.figure(figsize=(8,5)); plt.bar(["Low 1.5%","Medium 3.5%","High 5.5%"],rois); plt.ylabel("ROI (%)"); plt.title("ROI Sensitivity to Annual Damage Growth"); save("roi_sensitivity.png")
+# Scenario comparison changes only the specified assumptions; all other defaults remain fixed.
+scenarios = {
+    "Conservative": {"annual_damage_growth_rate": 0.02, "cooling_energy_reduction_rate": 0.08, "heatstroke_reduction_rate": 0.12},
+    "Base": {"annual_damage_growth_rate": 0.035, "cooling_energy_reduction_rate": 0.12, "heatstroke_reduction_rate": 0.18},
+    "High-risk future": {"annual_damage_growth_rate": 0.055, "cooling_energy_reduction_rate": 0.16, "heatstroke_reduction_rate": 0.24},
+}
+scenario_rows = []
+for name, s in scenarios.items():
+    sg = (1 + s["annual_damage_growth_rate"]) ** (y - 1)
+    sav = (
+        initial_medical_cost * sg * s["heatstroke_reduction_rate"]
+        + initial_cooling_energy_cost * sg * s["cooling_energy_reduction_rate"]
+        + initial_disaster_related_heat_cost * sg * disaster_heat_loss_reduction_rate
+    )
+    sb = sav + credit_revenue - operating
+    scash = sb.copy(); scash[0] -= capex
+    scenario_rows.append({"scenario": name, "npv": np.sum(sb / discount) - capex, "roi": scash.sum() / capex, "payback_year": payback_year(np.cumsum(scash))})
+scenario_df = pd.DataFrame(scenario_rows)
+scenario_df.to_csv(OUT / "scenario_comparison.csv", index=False)
+plot_values = scenario_df["payback_year"].fillna(years + 1)
+plt.figure(figsize=(8, 5)); bars = plt.bar(scenario_df["scenario"], plot_values)
+for bar, value in zip(bars, scenario_df["payback_year"]):
+    plt.text(bar.get_x()+bar.get_width()/2, bar.get_height()+0.3, "No payback" if pd.isna(value) else f"Year {int(value)}", ha="center")
+plt.ylim(0, years + 3); plt.ylabel("Payback year"); plt.title("Urban Cooling Scenario Payback Comparison"); save("scenario_payback_comparison.png")
+
 print(f"Urban cooling model: NPV={npv:,.0f}, ROI={roi:.1%}, payback year={payback or 'not reached'}")

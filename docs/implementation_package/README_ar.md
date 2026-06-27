@@ -26,6 +26,27 @@
 
 يبدأ العمل بخط أساس، ثم تجربة محدودة، فتحقق مستقل من النتائج، وإصدار وحدات قابلة للدفاع عنها، وعقود دفع مقابل النتائج، ثم التوسع بعد المراجعة. يجب توحيد حدود المقارنة والفترة والخصم بين سيناريو عدم التدخل والتنفيذ.
 
+## أولوية التنفيذ التي تظهرها المحاكاة
+
+| الأولوية | المجال | السبب |
+|---:|---|---|
+| 1 | تمويل أرصدة التبريد | استرداد سنة 9 بتعدد الإيرادات؛ مناسب لـSPV والصندوق |
+| 2 | التبريد الحضري | استرداد سنة 11؛ مناسب للمرافق البلدية |
+| 3 | مخاطر الفيضان | استرداد سنة 12؛ مناسب للتأمين والأحواض |
+| 4 | التربة والزراعة | لا استرداد افتراضي؛ يلزم تقييم الغذاء والماء والدعم |
+
+انظر [ملخص النتائج](../../simulations/SIMULATION_RESULTS_SUMMARY_ar.md) و[قراءة النتائج الضعيفة](../../simulations/HOW_TO_READ_WEAK_RESULTS_ar.md).
+
+### رسوم ممثلة
+
+![Urban Cooling Cumulative Cost](../../simulations/urban_cooling_cost_benefit_model/outputs/cumulative_cost_comparison.png)
+
+![Finance Cumulative Cash Flow](../../simulations/cooling_credit_finance_model/outputs/investor_cumulative_cash_flow.png)
+
+![Disaster Avoided Flood Loss](../../simulations/disaster_risk_avoidance_model/outputs/cumulative_avoided_flood_loss.png)
+
+![Agriculture Net Benefit](../../simulations/soil_recovery_agriculture_model/outputs/agricultural_net_benefit.png)
+
 ---
 
 ## المؤلف

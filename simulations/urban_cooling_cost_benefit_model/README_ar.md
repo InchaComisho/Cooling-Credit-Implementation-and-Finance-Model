@@ -29,6 +29,52 @@ python urban_cooling_cost_benefit_sim.py
 
 هذا نموذج مفاهيمي لدعم القرار، وليس توقعًا دقيقًا. يجب استبدال الافتراضات ببيانات محلية مقاسة قبل استخدامه في قرارات السياسة أو الاستثمار. لا يغطي كل التفاعلات والتوزيع والضرائب والتمويل وعدم اليقين والتهجير والذيل المتطرف. يمنع العد المزدوج وتطلب مراجعة هندسية واكتوارية ومالية وقانونية.
 
+## نتائج الحالة الأساسية
+
+| المؤشر | النتيجة |
+|---|---:|
+| فترة التقييم | 20 سنة |
+| الاسترداد | السنة 11 |
+| المنافع | الصحة وطاقة التبريد وأضرار الحر وإيراد الرصيد |
+| القيود | رأس المال والتشغيل وMRV |
+| التفسير | نموذج بلدي تتراكم فيه الخسائر المتجنبة متوسط الأجل |
+
+يبين الرسم التراكمي عبء الاستثمار المبكر، ثم تراكم تجنب الصحة والكهرباء وأضرار الحر حتى الاسترداد قرب السنة 11.
+
+## الرسوم الناتجة
+
+### Cumulative Cost Comparison
+
+![Cumulative Cost Comparison](outputs/cumulative_cost_comparison.png)
+
+### Annual Avoided Costs
+
+![Annual Avoided Costs](outputs/annual_avoided_costs.png)
+
+### Net Benefit and Payback
+
+![Net Benefit and Payback](outputs/net_benefit_and_payback.png)
+
+### Cooling Indicators
+
+![Cooling Indicators](outputs/cooling_indicators.png)
+
+### ROI Sensitivity
+
+![ROI Sensitivity](outputs/roi_sensitivity.png)
+
+## مقارنة السيناريوهات
+
+![Scenario Payback Comparison](outputs/scenario_payback_comparison.png)
+
+يقارن الرسم الحالات المحافظة والأساسية والمستقبل عالي المخاطر. تظهر أهمية الأرصدة عند مقارنة الخسائر المتجنبة إذا ارتفعت أعباء الحر والكوارث والصحة والطاقة؛ وهذه اختبارات وليست احتمالات.
+
+تتوفر القيم الأساسية في [`outputs/scenario_comparison.csv`](outputs/scenario_comparison.csv).
+
+## كيفية قراءة النتائج الضعيفة
+
+See [كيفية قراءة النتائج الضعيفة](../HOW_TO_READ_WEAK_RESULTS_ar.md) for guidance on public support, missing benefit categories, MRV, and appraisal horizons.
+
 ---
 
 ## المؤلف

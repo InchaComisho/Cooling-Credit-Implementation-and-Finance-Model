@@ -15,6 +15,11 @@ Install `numpy`, `pandas`, and `matplotlib`, enter a module folder, and run its 
 
 This is a conceptual decision-support package, not a forecast. Results are sensitive to attribution, growth, discounting, implementation survival, and revenue contracts. Replace every default with locally measured and independently reviewed data before policy, insurance, or investment use. Compare scenarios on consistent boundaries and do not add overlapping benefits twice.
 
+## Results and Interpretation
+
+- [Simulation Results Summary](SIMULATION_RESULTS_SUMMARY.md)
+- [How to Read Weak Results](HOW_TO_READ_WEAK_RESULTS.md)
+
 ---
 
 ## Author

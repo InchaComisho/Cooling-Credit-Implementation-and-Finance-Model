@@ -29,6 +29,52 @@ Read annual category charts before cumulative charts; payback is the first year 
 
 This is a conceptual decision-support model, not a forecast. All assumptions are transparent and should be replaced with local measured data before policy or investment decisions. It does not model every interaction, distributional effect, tax, financing structure, uncertainty, displacement, or extreme tail. Avoid double counting across benefit categories and obtain engineering, actuarial, financial, and legal review.
 
+## Base-Case Results
+
+| Indicator | Result |
+|---|---:|
+| Evaluation period | 20 years |
+| Payback | Year 11 |
+| Main benefits | Medical, cooling-energy, heat-loss avoidance; credit revenue |
+| Main constraints | CAPEX, OPEX, MRV |
+| Interpretation | Municipal model whose avoided losses accumulate over the medium term |
+
+The cumulative chart shows that implementation bears a larger early burden because of CAPEX, while avoided medical, electricity, and heat-damage costs build over time. The base case reaches payback around year 11.
+
+## Output Graphs
+
+### Cumulative Cost Comparison
+
+![Cumulative Cost Comparison](outputs/cumulative_cost_comparison.png)
+
+### Annual Avoided Costs
+
+![Annual Avoided Costs](outputs/annual_avoided_costs.png)
+
+### Net Benefit and Payback
+
+![Net Benefit and Payback](outputs/net_benefit_and_payback.png)
+
+### Cooling Indicators
+
+![Cooling Indicators](outputs/cooling_indicators.png)
+
+### ROI Sensitivity
+
+![ROI Sensitivity](outputs/roi_sensitivity.png)
+
+## Scenario Comparison
+
+![Scenario Payback Comparison](outputs/scenario_payback_comparison.png)
+
+This chart compares Conservative, Base, and High-risk future cases. The case for Cooling Credits depends not on one base case alone, but on avoided losses if heat, disaster, medical, and energy burdens rise. Scenarios are structured tests, not probabilities.
+
+The underlying values are available in [`outputs/scenario_comparison.csv`](outputs/scenario_comparison.csv).
+
+## How to Read Weak Results
+
+See [How to Read Weak Results](../HOW_TO_READ_WEAK_RESULTS.md) for guidance on public support, missing benefit categories, MRV, and appraisal horizons.
+
 ---
 
 ## Author

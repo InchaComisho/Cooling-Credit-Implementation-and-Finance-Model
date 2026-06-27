@@ -610,3 +610,18 @@ CC BY 4.0
 - [政府向け意思決定ブリーフ](docs/implementation_package/GOVERNMENT_DECISION_BRIEF_ja.md)
 - [保険・リスク低減モデル](docs/implementation_package/INSURANCE_AND_RISK_REDUCTION_MODEL_ja.md)
 - [シミュレーション資料](simulations/README_ja.md)
+
+### 基本ケースのシミュレーション結果
+
+| モデル | 投資回収 | 実装上の示唆 |
+|---|---:|---|
+| クーリングクレジット金融モデル | 9年目 | 複数収益源を束ねるSPV・ファンド型が有望 |
+| 都市冷却モデル | 11年目 | 自治体・学校・病院・高齢者施設周辺の実証に向く |
+| 防災・洪水リスク回避モデル | 12年目 | 保険会社・流域自治体との連携に向く |
+| 土壌回復・農業モデル | 基本ケースでは未回収 | 公的支援、食品企業負担、水リスク評価、食料安全保障評価が必要 |
+
+![Urban Cooling Cost Comparison](simulations/urban_cooling_cost_benefit_model/outputs/cumulative_cost_comparison.png)
+
+![Cooling Credit Finance Cash Flow](simulations/cooling_credit_finance_model/outputs/investor_cumulative_cash_flow.png)
+
+[全結果要約](simulations/SIMULATION_RESULTS_SUMMARY_ja.md)も参照。
