@@ -16,3 +16,8 @@ These documents expand the Cooling Credit implementation and finance model acros
 | Finance flow model | [EN](FINANCE_FLOW_MODEL.md) | [JA](FINANCE_FLOW_MODEL_ja.md) | [AR](FINANCE_FLOW_MODEL_ar.md) |
 | Public and disaster-prevention finance | [EN](PUBLIC_FINANCE_MODEL.md) | [JA](PUBLIC_FINANCE_MODEL_ja.md) | [AR](PUBLIC_FINANCE_MODEL_ar.md) |
 | Legal and financial notes | [EN](LEGAL_AND_FINANCIAL_NOTES.md) | [JA](LEGAL_AND_FINANCIAL_NOTES_ja.md) | [AR](LEGAL_AND_FINANCIAL_NOTES_ar.md) |
+
+## Implementation Roadmap and Simulation Package
+
+- [Implementation Package Index](implementation_package/README.md)
+- [Simulation Package](../simulations/README.md)

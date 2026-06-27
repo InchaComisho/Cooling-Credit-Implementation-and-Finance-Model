@@ -16,3 +16,8 @@
 | نموذج تدفق التمويل | [EN](FINANCE_FLOW_MODEL.md) | [JA](FINANCE_FLOW_MODEL_ja.md) | [AR](FINANCE_FLOW_MODEL_ar.md) |
 | التمويل العام والوقاية من الكوارث | [EN](PUBLIC_FINANCE_MODEL.md) | [JA](PUBLIC_FINANCE_MODEL_ja.md) | [AR](PUBLIC_FINANCE_MODEL_ar.md) |
 | ملاحظات قانونية ومالية | [EN](LEGAL_AND_FINANCIAL_NOTES.md) | [JA](LEGAL_AND_FINANCIAL_NOTES_ja.md) | [AR](LEGAL_AND_FINANCIAL_NOTES_ar.md) |
+
+## حزمة خارطة التنفيذ والمحاكاة
+
+- [فهرس حزمة التنفيذ](implementation_package/README_ar.md)
+- [حزمة المحاكاة](../simulations/README_ar.md)

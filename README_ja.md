@@ -598,3 +598,15 @@ CC BY 4.0
 - [資金循環モデル](docs/FINANCE_FLOW_MODEL_ja.md)
 - [公的資金・防災金融モデル](docs/PUBLIC_FINANCE_MODEL_ja.md)
 - [金融商品化と法制度上の注意](docs/LEGAL_AND_FINANCIAL_NOTES_ja.md)
+
+## 実装ロードマップ・シミュレーション資料
+
+本リポジトリには、何もしない場合の将来コストと、クーリングクレジット実装による回避損失・経済便益を比較するための実装資料と概念シミュレーションを追加している。
+
+- [実装パッケージ索引](docs/implementation_package/README_ja.md)
+- [自治体実装ロードマップ](docs/implementation_package/MUNICIPAL_IMPLEMENTATION_ROADMAP_ja.md)
+- [パイロット事業設計](docs/implementation_package/PILOT_PROJECT_DESIGN_ja.md)
+- [投資家・SPVモデル](docs/implementation_package/INVESTOR_AND_SPV_MODEL_ja.md)
+- [政府向け意思決定ブリーフ](docs/implementation_package/GOVERNMENT_DECISION_BRIEF_ja.md)
+- [保険・リスク低減モデル](docs/implementation_package/INSURANCE_AND_RISK_REDUCTION_MODEL_ja.md)
+- [シミュレーション資料](simulations/README_ja.md)

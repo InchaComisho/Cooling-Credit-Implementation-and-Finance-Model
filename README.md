@@ -599,3 +599,15 @@ The implementation and finance model is expanded into detailed documents coverin
 - [Finance Flow Model](docs/FINANCE_FLOW_MODEL.md)
 - [Public Finance Model](docs/PUBLIC_FINANCE_MODEL.md)
 - [Legal and Financial Notes](docs/LEGAL_AND_FINANCIAL_NOTES.md)
+
+## Implementation Roadmap and Simulation Package
+
+This repository also includes a practical implementation package and conceptual simulations designed to compare no-action costs with Cooling Credit implementation benefits.
+
+- [Implementation Package Index](docs/implementation_package/README.md)
+- [Municipal Implementation Roadmap](docs/implementation_package/MUNICIPAL_IMPLEMENTATION_ROADMAP.md)
+- [Pilot Project Design](docs/implementation_package/PILOT_PROJECT_DESIGN.md)
+- [Investor and SPV Model](docs/implementation_package/INVESTOR_AND_SPV_MODEL.md)
+- [Government Decision Brief](docs/implementation_package/GOVERNMENT_DECISION_BRIEF.md)
+- [Insurance and Risk Reduction Model](docs/implementation_package/INSURANCE_AND_RISK_REDUCTION_MODEL.md)
+- [Simulation Package](simulations/README.md)

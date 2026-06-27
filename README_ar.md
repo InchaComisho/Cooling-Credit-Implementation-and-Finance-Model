@@ -595,3 +595,15 @@ Cooling Credit, Carbon Credit, Thermal Accounting, Climate Finance, Disaster Pre
 - [نموذج تدفق التمويل](docs/FINANCE_FLOW_MODEL_ar.md)
 - [نموذج التمويل العام وتمويل الوقاية من الكوارث](docs/PUBLIC_FINANCE_MODEL_ar.md)
 - [ملاحظات قانونية ومالية](docs/LEGAL_AND_FINANCIAL_NOTES_ar.md)
+
+## حزمة خارطة التنفيذ والمحاكاة
+
+يتضمن هذا المستودع أيضًا حزمة تنفيذ عملية ومحاكاة مفاهيمية لمقارنة تكاليف عدم اتخاذ إجراء مع فوائد تنفيذ أرصدة التبريد.
+
+- [فهرس حزمة التنفيذ](docs/implementation_package/README_ar.md)
+- [خارطة تنفيذ البلديات](docs/implementation_package/MUNICIPAL_IMPLEMENTATION_ROADMAP_ar.md)
+- [تصميم المشروع التجريبي](docs/implementation_package/PILOT_PROJECT_DESIGN_ar.md)
+- [نموذج المستثمر وSPV](docs/implementation_package/INVESTOR_AND_SPV_MODEL_ar.md)
+- [موجز قرار للحكومات](docs/implementation_package/GOVERNMENT_DECISION_BRIEF_ar.md)
+- [نموذج التأمين وخفض المخاطر](docs/implementation_package/INSURANCE_AND_RISK_REDUCTION_MODEL_ar.md)
+- [حزمة المحاكاة](simulations/README_ar.md)
