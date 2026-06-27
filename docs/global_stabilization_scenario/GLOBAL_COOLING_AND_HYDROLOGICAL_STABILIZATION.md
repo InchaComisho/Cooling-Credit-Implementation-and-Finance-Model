@@ -1,5 +1,39 @@
 # Global Cooling and Hydrological Stabilization
 
+## Core Interpretation: Restarting Earth's Natural Cooling Functions
+
+Global warming is not only a problem of rising temperature caused by increased CO₂ concentration.  
+It is also a problem of weakened natural cooling functions within the Earth's climate system.
+
+The Earth is not a perfectly closed box, because it receives energy from the Sun and releases infrared radiation into space.  
+However, within the climate system, heat and water circulate through the land, atmosphere, oceans, vegetation, soil, clouds, and precipitation.
+
+When excess heat accumulates and circulation weakens, heat becomes more likely to remain concentrated in specific regions.  
+This can amplify heat waves, droughts, extreme rainfall, floods, marine heat waves, and other climate-related disaster risks.
+
+In scientific terms, this can be described as a weakening of water phase transitions and latent heat transport.
+
+Water normally helps cool and regulate the Earth through:
+
+- evaporation;
+- condensation;
+- cloud formation;
+- precipitation;
+- freezing and melting;
+- evapotranspiration from vegetation and soil;
+- ocean-atmosphere heat exchange;
+- vertical and horizontal circulation in the atmosphere and oceans.
+
+When forests decline, soil moisture is lost, cities overheat, drylands expand, and ocean circulation weakens, water loses part of its ability to absorb heat, move heat, and release heat.
+
+Therefore, cooling the Earth is not merely a matter of local comfort.  
+It is a way to restore the conditions under which water phase transitions, latent heat transport, evapotranspiration, rainfall formation, and circulation can recover the Earth's original cooling functions.
+
+CO₂ reduction reduces additional radiative forcing.  
+Cooling Credit implementation restores distributed natural cooling and heat-transport functions.
+
+Both are necessary.
+
 ## Core argument
 
 Rising temperature increases atmospheric moisture capacity, surface heat stress, drought intensity, and heavy-rain potential. A destabilized water cycle can produce both drought and extreme rainfall. Cooling Credit implementation should therefore be evaluated as part of a distributed cooling and hydrological stabilization strategy.

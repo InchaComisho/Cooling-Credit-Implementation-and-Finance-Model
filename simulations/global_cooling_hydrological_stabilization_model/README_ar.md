@@ -19,7 +19,7 @@ pip install -r requirements.txt
 python global_cooling_hydrological_stabilization_sim.py
 ```
 
-## المخرجات والرسوم
+## المخرجات
 
 - `outputs/global_stabilization_results.csv`
 - `outputs/risk_index_comparison.png`
@@ -27,13 +27,17 @@ python global_cooling_hydrological_stabilization_sim.py
 - `outputs/deployment_effect_components.png`
 - `outputs/global_vs_local_gap.png`
 
-![Global Risk Index Comparison](outputs/risk_index_comparison.png)
+## كيفية قراءة الرسوم البيانية
 
-![Avoided Risk by Scenario](outputs/avoided_risk_by_scenario.png)
+تم إنشاء صور الرسوم البيانية وتسميات المحاور باللغة الإنجليزية فقط.  
+للاطلاع على الرسوم، راجع [English README](README.md) أو مجلد `outputs/`.
 
-![Deployment Effect Components](outputs/deployment_effect_components.png)
+هذه الرسوم لا تتنبأ بعدد الكوارث الفعلي أو بحجم الأضرار.  
+إنها تقارن، على شكل مؤشر مفاهيمي لضغط المخاطر، بين التنفيذ المحلي، والبرامج الوطنية، وشبكات المناطق الجافة القارية، والتنفيذ العالمي المنسق.
 
-![Local vs Global Gap](outputs/global_vs_local_gap.png)
+النقطة المهمة ليست أن المشاريع المحلية بلا قيمة.  
+فالمشاريع المحلية قد تحسن الراحة، وتقلل التعرض للحرارة، وتخفض طلب التبريد، وتحد من جريان مياه الأمطار، وتوفر بيانات قياس وتحقق.  
+أما التنفيذ العالمي المنسق، فهو سيناريو أعلى مستوى لتقييم إمكانية تخفيف ظروف الخلفية التي تضخم المخاطر، مثل اختلال الحرارة، واضطراب دورة المياه، وفقدان رطوبة التربة، وتراكم الحرارة في المناطق الجافة.
 
 ## التفسير والقيود
 

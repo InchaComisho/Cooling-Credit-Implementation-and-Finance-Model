@@ -636,8 +636,7 @@ CC BY 4.0
 - [全球冷却・水循環安定化](docs/global_stabilization_scenario/GLOBAL_COOLING_AND_HYDROLOGICAL_STABILIZATION_ja.md)
 - [乾燥地帯・超音波ミスト冷却シナリオ](docs/global_stabilization_scenario/DRYLAND_ULTRASONIC_MIST_COOLING_SCENARIO_ja.md)
 - [局所効果と全球効果の違い](docs/global_stabilization_scenario/LOCAL_VS_GLOBAL_EFFECTS_ja.md)
+- [水の相転移と地球冷却ロジック](docs/global_stabilization_scenario/WATER_PHASE_TRANSITION_COOLING_LOGIC_ja.md)
 - [全球安定化シミュレーション](simulations/global_cooling_hydrological_stabilization_model/README_ja.md)
 
-![Global Risk Index Comparison](simulations/global_cooling_hydrological_stabilization_model/outputs/risk_index_comparison.png)
-
-![Local vs Global Gap](simulations/global_cooling_hydrological_stabilization_model/outputs/global_vs_local_gap.png)
+図表とグラフの解説は、英語版シミュレーションREADMEに掲載している。

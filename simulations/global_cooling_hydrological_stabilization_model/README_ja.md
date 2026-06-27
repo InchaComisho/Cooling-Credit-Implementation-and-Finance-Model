@@ -27,15 +27,17 @@ python global_cooling_hydrological_stabilization_sim.py
 - `outputs/deployment_effect_components.png`
 - `outputs/global_vs_local_gap.png`
 
-## グラフ
+## 図表の読み方について
 
-![Global Risk Index Comparison](outputs/risk_index_comparison.png)
+本シミュレーションのグラフ画像と図表ラベルは英語版のみで作成している。  
+図表を確認する場合は、[English README](README.md) または `outputs/` ディレクトリを参照する。
 
-![Avoided Risk by Scenario](outputs/avoided_risk_by_scenario.png)
+これらのグラフは、実際の災害発生数や被害額を予測するものではない。  
+局所実装、国家規模実装、大陸乾燥地ネットワーク、全球協調実装の違いを、概念的なリスク圧力指数として比較するためのものである。
 
-![Deployment Effect Components](outputs/deployment_effect_components.png)
-
-![Local vs Global Gap](outputs/global_vs_local_gap.png)
+重要なのは、局所事業が無意味ということではない。  
+局所事業は、快適性、熱中症対策、冷房電力需要の低下、雨水流出抑制、実測データ取得に役立つ。  
+一方で、全球協調実装は、熱の偏り、水循環の乱れ、土壌水分喪失、乾燥地帯の熱蓄積といった背景条件を緩和する可能性を評価するための上位シナリオである。
 
 ## 解釈・限界
 

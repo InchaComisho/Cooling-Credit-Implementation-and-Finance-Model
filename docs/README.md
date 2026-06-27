@@ -22,6 +22,10 @@ These documents expand the Cooling Credit implementation and finance model acros
 - [Implementation Package Index](implementation_package/README.md)
 - [Simulation Package](../simulations/README.md)
 
-## Global Cooling and Hydrological Stabilization
+## Global Stabilization Scenario
 
 - [Global Stabilization Scenario Index](global_stabilization_scenario/README.md)
+- [Global Cooling and Hydrological Stabilization](global_stabilization_scenario/GLOBAL_COOLING_AND_HYDROLOGICAL_STABILIZATION.md)
+- [Dryland Ultrasonic Mist Cooling Scenario](global_stabilization_scenario/DRYLAND_ULTRASONIC_MIST_COOLING_SCENARIO.md)
+- [Local vs Global Effects](global_stabilization_scenario/LOCAL_VS_GLOBAL_EFFECTS.md)
+- [Water Phase Transition and Cooling Logic](global_stabilization_scenario/WATER_PHASE_TRANSITION_COOLING_LOGIC.md)

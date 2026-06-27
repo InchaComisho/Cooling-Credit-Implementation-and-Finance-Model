@@ -633,8 +633,7 @@ Cooling Credit, Carbon Credit, Thermal Accounting, Climate Finance, Disaster Pre
 - [التبريد العالمي والاستقرار المائي](docs/global_stabilization_scenario/GLOBAL_COOLING_AND_HYDROLOGICAL_STABILIZATION_ar.md)
 - [سيناريو الرذاذ في الأراضي الجافة](docs/global_stabilization_scenario/DRYLAND_ULTRASONIC_MIST_COOLING_SCENARIO_ar.md)
 - [الآثار المحلية والعالمية](docs/global_stabilization_scenario/LOCAL_VS_GLOBAL_EFFECTS_ar.md)
+- [منطق تحولات طور الماء والتبريد](docs/global_stabilization_scenario/WATER_PHASE_TRANSITION_COOLING_LOGIC_ar.md)
 - [محاكاة الاستقرار العالمي](simulations/global_cooling_hydrological_stabilization_model/README_ar.md)
 
-![Global Risk Index Comparison](simulations/global_cooling_hydrological_stabilization_model/outputs/risk_index_comparison.png)
-
-![Local vs Global Gap](simulations/global_cooling_hydrological_stabilization_model/outputs/global_vs_local_gap.png)
+توجد الرسوم البيانية وشروحات قراءتها في ملف README الإنجليزي الخاص بالمحاكاة.

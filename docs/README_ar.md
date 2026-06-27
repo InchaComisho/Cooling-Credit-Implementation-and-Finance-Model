@@ -22,6 +22,10 @@
 - [فهرس حزمة التنفيذ](implementation_package/README_ar.md)
 - [حزمة المحاكاة](../simulations/README_ar.md)
 
-## التبريد العالمي والاستقرار المائي
+## سيناريو التبريد العالمي والاستقرار المائي
 
 - [فهرس سيناريو الاستقرار العالمي](global_stabilization_scenario/README_ar.md)
+- [التبريد العالمي والاستقرار المائي](global_stabilization_scenario/GLOBAL_COOLING_AND_HYDROLOGICAL_STABILIZATION_ar.md)
+- [سيناريو الرذاذ فوق الصوتي في الأراضي الجافة](global_stabilization_scenario/DRYLAND_ULTRASONIC_MIST_COOLING_SCENARIO_ar.md)
+- [الآثار المحلية والعالمية](global_stabilization_scenario/LOCAL_VS_GLOBAL_EFFECTS_ar.md)
+- [منطق تحولات طور الماء والتبريد](global_stabilization_scenario/WATER_PHASE_TRANSITION_COOLING_LOGIC_ar.md)

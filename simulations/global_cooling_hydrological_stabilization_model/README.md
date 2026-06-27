@@ -31,11 +31,55 @@ python global_cooling_hydrological_stabilization_sim.py
 
 ![Global Risk Index Comparison](outputs/risk_index_comparison.png)
 
+#### How to read this graph
+
+This graph compares the no-action risk-pressure index with four implementation scales: local pilots, national programs, continental dryland networks, and global coordinated implementation.
+
+The graph does not predict actual disaster frequency or damage.  
+Instead, it illustrates a conceptual point: local projects may have only modest influence on systemic climate-risk pressure, while broader distributed implementation may reduce the rate at which risk pressure grows.
+
+The important reading is not that global implementation eliminates risk.  
+The important reading is that reducing heat accumulation, surface overheating, dryland heat stress, soil moisture loss, and water-cycle imbalance at sufficient scale may moderate the background conditions that amplify climate-related disasters.
+
 ![Avoided Risk by Scenario](outputs/avoided_risk_by_scenario.png)
+
+#### How to read this graph
+
+This graph shows the conceptual avoided-risk gap between no action and each deployment scenario.
+
+A small avoided-risk value does not mean the project is meaningless.  
+It means that local or limited deployment may mainly produce local comfort, public-health, energy, or runoff benefits.
+
+Larger avoided-risk values appear only when the model assumes broader implementation.  
+This reflects the core hypothesis of the framework: distributed cooling becomes more important when many projects are connected across cities, drylands, forests, farms, coasts, and oceans.
 
 ![Deployment Effect Components](outputs/deployment_effect_components.png)
 
+#### How to read this graph
+
+This graph breaks the conceptual mitigation effect into four components:
+
+- surface cooling;
+- water-cycle recovery;
+- soil moisture recovery;
+- dryland cooling.
+
+The model does not claim that any single component can stabilize climate by itself.  
+The point is that planetary cooling should be treated as a combined system: reducing surface heat, restoring water movement, recovering soil moisture, and cooling dryland heat accumulations work together.
+
+This is why Cooling Credits should not be limited to urban greening or carbon accounting alone.
+
 ![Local vs Global Gap](outputs/global_vs_local_gap.png)
+
+#### How to read this graph
+
+This graph emphasizes the gap between local pilots and global coordinated implementation.
+
+Local pilots are necessary because they provide real MRV data, operational experience, cost data, and safety checks.  
+However, local pilots may not visibly change regional or global climate behavior.
+
+The global scenario is not a claim of weather control.  
+It is a conceptual illustration that if many verified cooling, water-retention, soil-recovery, dryland, coastal, and ocean-support projects are deployed together, the combined effect may reduce the background heat and water-cycle imbalance that intensifies disasters.
 
 ## Interpretation and limits
 

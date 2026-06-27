@@ -633,12 +633,18 @@ Local Cooling Credit projects may show modest results because they do not captur
 
 The scenario does not claim deterministic weather control. It examines whether distributed cooling, water retention, soil moisture recovery, vegetation recovery, dryland evaporative cooling, and ocean/coastal support could reduce the background conditions that amplify climate-related disasters.
 
+Global warming is not only a problem of rising temperature caused by increased CO₂ concentration. It is also a problem of weakened natural cooling functions within the Earth's climate system — specifically, a weakening of water phase transitions and latent heat transport. CO₂ reduction reduces additional radiative forcing. Cooling Credit implementation restores distributed natural cooling and heat-transport functions. Both are necessary.
+
 - [Global Stabilization Scenario Index](docs/global_stabilization_scenario/README.md)
 - [Global Cooling and Hydrological Stabilization](docs/global_stabilization_scenario/GLOBAL_COOLING_AND_HYDROLOGICAL_STABILIZATION.md)
 - [Dryland Ultrasonic Mist Cooling Scenario](docs/global_stabilization_scenario/DRYLAND_ULTRASONIC_MIST_COOLING_SCENARIO.md)
 - [Local vs Global Effects](docs/global_stabilization_scenario/LOCAL_VS_GLOBAL_EFFECTS.md)
+- [Water Phase Transition and Cooling Logic](docs/global_stabilization_scenario/WATER_PHASE_TRANSITION_COOLING_LOGIC.md)
 - [Global Stabilization Simulation](simulations/global_cooling_hydrological_stabilization_model/README.md)
 
 ![Global Risk Index Comparison](simulations/global_cooling_hydrological_stabilization_model/outputs/risk_index_comparison.png)
+
+**How to read this graph:**  
+This figure does not forecast actual disasters. It compares conceptual risk-pressure trajectories under different implementation scales. The key point is that local projects may mainly improve local comfort and resilience, while global coordinated implementation may reduce the background heat and water-cycle imbalance that amplifies climate-related disasters. The scenario does not claim that disasters disappear; it shows why Cooling Credits should be evaluated as both local projects and distributed planetary cooling infrastructure.
 
 ![Local vs Global Gap](simulations/global_cooling_hydrological_stabilization_model/outputs/global_vs_local_gap.png)

@@ -6,18 +6,33 @@
 
 目的は天候制御ではない。熱負荷低減、保水、土壌水分・蒸発散回復と、それらが背景リスク条件を緩和するかの慎重な評価である。
 
+## 核心的な解釈：地球本来の冷却機能を再起動する
+
+温暖化とは、単にCO₂濃度の上昇によって気温が上がる問題ではない。  
+同時に、地球の気候システムに備わっていた自然冷却機能が弱体化した問題でもある。
+
+科学的・専門的に言えば、これは水の相転移と潜熱輸送が弱体化した状態として説明できる。
+
+本来、水は蒸発、凝結、雲形成、降雨、凍結と融解、蒸散、海洋・大気熱交換、大気・海洋循環を通じて地球を冷却し、調律している。
+
+森林が減少し、土壌水分が失われ、都市が過熱し、乾燥地帯が拡大し、海洋循環が弱まると、水が熱を受け取り、運び、放出する能力が低下する。
+
+CO₂削減は、追加的な放射強制力を抑えるためのブレーキである。  
+クーリングクレジットの実装は、分散した自然冷却機能と熱輸送機能を回復させるための仕組みである。
+
+両方が必要である。
+
 ## 文書
 
 - [全球冷却・水循環安定化](GLOBAL_COOLING_AND_HYDROLOGICAL_STABILIZATION_ja.md)
 - [乾燥地帯・超音波ミスト冷却](DRYLAND_ULTRASONIC_MIST_COOLING_SCENARIO_ja.md)
 - [局所効果と全球効果](LOCAL_VS_GLOBAL_EFFECTS_ja.md)
+- [水の相転移と地球冷却ロジック](WATER_PHASE_TRANSITION_COOLING_LOGIC_ja.md)
 - [概念シミュレーション](../../simulations/global_cooling_hydrological_stabilization_model/README_ja.md)
 
-## 代表グラフ
+## 代表グラフについて
 
-![Global Risk Index Comparison](../../simulations/global_cooling_hydrological_stabilization_model/outputs/risk_index_comparison.png)
-
-![Local vs Global Gap](../../simulations/global_cooling_hydrological_stabilization_model/outputs/global_vs_local_gap.png)
+グラフ画像と図表ラベルは英語版のみで作成している。図表を確認する場合は、[English README](README.md) または `../../simulations/global_cooling_hydrological_stabilization_model/outputs/` ディレクトリを参照する。
 
 ---
 

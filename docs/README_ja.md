@@ -22,6 +22,10 @@
 - [実装パッケージ索引](implementation_package/README_ja.md)
 - [シミュレーション資料](../simulations/README_ja.md)
 
-## 全球冷却・水循環安定化
+## 全球冷却・水循環安定化シナリオ
 
 - [全球安定化シナリオ索引](global_stabilization_scenario/README_ja.md)
+- [全球冷却・水循環安定化](global_stabilization_scenario/GLOBAL_COOLING_AND_HYDROLOGICAL_STABILIZATION_ja.md)
+- [乾燥地帯・超音波ミスト冷却シナリオ](global_stabilization_scenario/DRYLAND_ULTRASONIC_MIST_COOLING_SCENARIO_ja.md)
+- [局所効果と全球効果の違い](global_stabilization_scenario/LOCAL_VS_GLOBAL_EFFECTS_ja.md)
+- [水の相転移と地球冷却ロジック](global_stabilization_scenario/WATER_PHASE_TRANSITION_COOLING_LOGIC_ja.md)
