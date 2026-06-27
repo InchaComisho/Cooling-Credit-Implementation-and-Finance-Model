@@ -1,43 +1,87 @@
 # Legal and Financial Notes
+## Legal and Financial Notes for Cooling Credit Models
 
-[English](LEGAL_AND_FINANCIAL_NOTES.md) | [Japanese](LEGAL_AND_FINANCIAL_NOTES_ja.md) | [Arabic](LEGAL_AND_FINANCIAL_NOTES_ar.md)
+[English](LEGAL_AND_FINANCIAL_NOTES.md) | [日本語](LEGAL_AND_FINANCIAL_NOTES_ja.md) | [العربية](LEGAL_AND_FINANCIAL_NOTES_ar.md)
 
 [Docs Index](README.md) | [Root README](../README.md)
 
-This document summarizes general legal and financial design cautions for Cooling Credit models. It is not legal, tax, accounting, or investment advice.
+## Important Notice
 
-## Key Points
+This document provides general issue-spotting only. It is not legal, tax, accounting, securities, or investment advice. Funds, bonds, credit sales, investment contracts, and public contracts require qualified review under the law of each jurisdiction.
 
-- Begin with measurable pilot projects.
-- Do not allow certificates to outrun physical outcomes.
-- Use MRV and third-party verification.
-- Keep Cooling Credits separate from emissions offsets.
-- Manage registry records and retirement records.
-- Avoid exaggerated claims.
-- Follow local securities, fund, investor-protection, public-procurement, and municipal-contract rules.
+## 1. Legal and Financial Cautions
 
-## Safe Development Sequence
+Cooling projects may connect to project funds, cooling bonds, outcome-based bonds, municipal contracts, insurance risk-reduction agreements, ESG products, adaptation funds, or infrastructure funds. Financial packaging must not outrun the underlying projects and evidence.
+
+## 2. Safe Development Sequence
 
 ```text
-Small pilot projects
-↓
-MRV data accumulation
-↓
-Third-party verification
-↓
-Outcome-based contracts
-↓
-Regional project funds
-↓
-Cooling bonds
-↓
-Outcome-linked instruments
+Small pilot → MRV data → independent verification
+→ outcome-based contracts → diversified regional fund
+→ cooling bond or outcome-linked instrument
+→ secondary market only if justified
 ```
 
-## Conclusion
+Do not pre-sell unmeasured outcomes, price units without MRV, omit ecological safeguards, or proceed without community agreement.
 
-Cooling Credits may connect to finance, but their credibility depends on measured cooling outcomes, transparent MRV, local consent, and conservative claims.
+## 3. Investor-Return Cautions
 
-## Author and License
+Depending on structure, investor returns can trigger securities, collective-investment, fund, disclosure, solicitation, and investor-protection rules. Counsel should assess whether capital is a donation, equity, debt, fund interest, guaranteed product, public contract, or another regulated instrument.
 
-See the root README for author, collaborative AI team, publication month, and CC BY 4.0 license information.
+## 4. Claims and Labeling
+
+Claims should state that funding supported measured cooling, water-cycle restoration, adaptation, or risk reduction. Avoid claims that emissions were cancelled, climate change was solved, disasters are fully prevented, temperatures are guaranteed to fall, or a purchase alone cools the planet.
+
+## 5. Separation from Emissions Offsets
+
+Emissions reduction remains necessary. Carbon credits address emissions accounting; Cooling Credits address heat load, natural cooling, and climate-damage risk. A Cooling Credit must not be marketed as permission to continue emissions.
+
+## 6. Public-Contracting Cautions
+
+Government participation may invoke procurement, subsidy, public-accounting, audit, concession, facility-management, transparency, data-access, and long-term maintenance requirements. Outcome definitions and value-for-money analysis must be explicit.
+
+## 7. Registry and Double Counting
+
+Each unit needs a unique ID, project, location, period, indicators, verification result, owner, transfer record, and retirement status. Issued or retired outcomes must not be claimed twice across buyers, programs, or reporting frameworks.
+
+## 8. Conclusion
+
+Cooling finance may become investable, but credibility rests on measured outcomes, transparent MRV, community agreement, safeguards, and independent verification—not financial engineering.
+
+---
+
+## Author
+
+Master / inchacomusho / InchaComisho
+
+Independent Japanese concept designer, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
+Founder and advocate of the academic framework of Natural Complementary Science.  
+Publicly active in natural-law philosophy, planetary circulation restoration, and co-creation with AI.
+
+---
+
+## Collaborative AI and Co-Creation Team
+
+This knowledge system has evolved through dialogue and co-creation between Master and multiple AI partners.
+
+- G (ChatGPT)
+- Mini (Gemini)
+- Cruz (Claude)
+- Real (Perplexity)
+- Lola (Dola)
+- Mana (Manus)
+
+---
+
+## Published
+
+June 2026
+
+---
+
+## License
+
+CC BY 4.0
+
+This repository is released under the Creative Commons Attribution 4.0 International License.  
+Sharing, reuse, translation, adaptation, and redistribution are permitted with clear attribution to **Master / inchacomusho / InchaComisho**.

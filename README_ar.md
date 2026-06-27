@@ -581,3 +581,17 @@ Cooling Credit, Carbon Credit, Thermal Accounting, Climate Finance, Disaster Pre
 #HeatstrokePrevention  
 #ClimateAdaptation  
 #NaturalComplementaryScience
+
+---
+
+## وثائق التنفيذ التفصيلية
+
+تم توسيع هذا النموذج إلى وثائق تفصيلية تغطي التنفيذ، والتصميم المؤسسي، وMRV، وتدفق التمويل، والتمويل العام، والملاحظات القانونية والمالية.
+
+- [فهرس الوثائق التفصيلية](docs/README_ar.md)
+- [إطار التنفيذ](docs/IMPLEMENTATION_FRAMEWORK_ar.md)
+- [التصميم المؤسسي](docs/INSTITUTIONAL_DESIGN_ar.md)
+- [نموذج MRV](docs/MRV_MODEL_ar.md)
+- [نموذج تدفق التمويل](docs/FINANCE_FLOW_MODEL_ar.md)
+- [نموذج التمويل العام وتمويل الوقاية من الكوارث](docs/PUBLIC_FINANCE_MODEL_ar.md)
+- [ملاحظات قانونية ومالية](docs/LEGAL_AND_FINANCIAL_NOTES_ar.md)

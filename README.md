@@ -585,3 +585,17 @@ Cooling Credit, Cooling Credit Implementation, Cooling Credit Finance Model, Car
 #HeatstrokePrevention  
 #ClimateAdaptation  
 #NaturalComplementaryScience
+
+---
+
+## Detailed Implementation Documents
+
+The implementation and finance model is expanded into detailed documents covering implementation, institutional design, MRV, finance flow, public finance, and legal / financial cautions.
+
+- [Detailed Documents Index](docs/README.md)
+- [Implementation Framework](docs/IMPLEMENTATION_FRAMEWORK.md)
+- [Institutional Design](docs/INSTITUTIONAL_DESIGN.md)
+- [MRV Model](docs/MRV_MODEL.md)
+- [Finance Flow Model](docs/FINANCE_FLOW_MODEL.md)
+- [Public Finance Model](docs/PUBLIC_FINANCE_MODEL.md)
+- [Legal and Financial Notes](docs/LEGAL_AND_FINANCIAL_NOTES.md)

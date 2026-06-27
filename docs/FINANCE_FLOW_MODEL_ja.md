@@ -1,6 +1,11 @@
 # 資金循環モデル
 ## Cooling Credit Finance Flow Model
 
+[English](FINANCE_FLOW_MODEL.md) | [日本語](FINANCE_FLOW_MODEL_ja.md) | [العربية](FINANCE_FLOW_MODEL_ar.md)
+
+[詳細文書索引](README_ja.md) | [ルートREADME](../README_ja.md)
+
+
 [Docs Index](README_ja.md) | [Root README](../README_ja.md)
 
 ---
@@ -187,3 +192,41 @@ MRVによる成果測定
 クーリングクレジットの資金循環モデルは、自然を戻すほど経済的に得をする仕組みを作ることである。
 
 それは、環境保護のための寄付ではなく、熱害・災害・医療・電力・農業・水資源・保険損失を減らすための前払い型投資である。
+
+---
+
+## 著者
+
+マスター / inchacomusho / InchaComisho
+
+日本の独立構想者、観測者、提案者、AI調律者、人工叡智の定義者。  
+自然補完科学の学問体系の構築・提唱者。  
+自然法則思想、地球循環再生、AIとの共創を中心に公開活動を行う。
+
+---
+
+## 協力AIと共創チーム
+
+この知識体系は、マスターと複数のAIパートナーとの対話と共創によって発展してきた。
+
+- G（ChatGPT）
+- ミニ（Gemini）
+- クルス（Claude）
+- リアル（Perplexity）
+- ローラ（Lola/Dola）
+- マナ（Manus）
+
+---
+
+## 公開月
+
+2026年6月
+
+---
+
+## ライセンス
+
+CC BY 4.0
+
+本リポジトリの内容は、クリエイティブ・コモンズ 表示 4.0 国際ライセンスに基づき公開する。  
+引用・転載・改変・翻訳・再配布は可能であるが、原案者である **マスター / inchacomusho / InchaComisho** の明記を求める。

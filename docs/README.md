@@ -1,42 +1,18 @@
-# Cooling Credit Implementation and Finance Model — Detailed Documents
+# Detailed Documents
 
 [English](README.md) | [日本語](README_ja.md) | [العربية](README_ar.md)
 
-This directory provides detailed design documents for the Cooling Credit Implementation and Finance Model.
+[Root README](../README.md)
 
-The core purpose of this repository is to redirect climate finance from bookkeeping-based offsets toward **measurable cooling outcomes**, recovery of natural cooling functions, and reduction of disaster, medical, energy, agricultural, water-resource, and ocean-related losses.
+These documents expand the Cooling Credit implementation and finance model across implementation, institutional design, MRV, finance flow, public finance, and legal and financial cautions.
 
----
+## Detailed Documents
 
-## Available Detailed Documents
-
-The detailed documents are currently prepared in Japanese. English versions can be added later as separate translations.
-
-- [Implementation Framework / 実装フレームワーク](IMPLEMENTATION_FRAMEWORK_ja.md)
-- [Institutional Design / 制度設計](INSTITUTIONAL_DESIGN_ja.md)
-- [MRV Model / MRVモデル](MRV_MODEL_ja.md)
-- [Finance Flow Model / 資金循環モデル](FINANCE_FLOW_MODEL_ja.md)
-- [Public Finance and Disaster-Prevention Finance Model / 公的資金・防災金融モデル](PUBLIC_FINANCE_MODEL_ja.md)
-- [Legal and Financial Notes / 金融商品化と法制度上の注意](LEGAL_AND_FINANCIAL_NOTES_ja.md)
-
----
-
-## Core Concept
-
-Cooling credits are not intended to function as permission to continue emitting.
-
-They are designed to evaluate:
-
-```text
-1. How much heat load has been reduced
-2. How much natural cooling function has been restored
-3. How much disaster, medical, energy, agricultural, water-resource, and ocean-related damage has been reduced
-```
-
-This makes cooling credits a framework for **thermal accounting**, outcome-based finance, disaster-prevention finance, climate adaptation investment, and nature-restorative infrastructure investment.
-
----
-
-## Role of This Documentation
-
-These documents are intended to support policy design, municipal pilot projects, ESG investment, insurance-risk reduction, climate adaptation, and local-regeneration projects.
+| Field | English | 日本語 | العربية |
+|---|---|---|---|
+| Implementation framework | [EN](IMPLEMENTATION_FRAMEWORK.md) | [JA](IMPLEMENTATION_FRAMEWORK_ja.md) | [AR](IMPLEMENTATION_FRAMEWORK_ar.md) |
+| Institutional design | [EN](INSTITUTIONAL_DESIGN.md) | [JA](INSTITUTIONAL_DESIGN_ja.md) | [AR](INSTITUTIONAL_DESIGN_ar.md) |
+| MRV model | [EN](MRV_MODEL.md) | [JA](MRV_MODEL_ja.md) | [AR](MRV_MODEL_ar.md) |
+| Finance flow model | [EN](FINANCE_FLOW_MODEL.md) | [JA](FINANCE_FLOW_MODEL_ja.md) | [AR](FINANCE_FLOW_MODEL_ar.md) |
+| Public and disaster-prevention finance | [EN](PUBLIC_FINANCE_MODEL.md) | [JA](PUBLIC_FINANCE_MODEL_ja.md) | [AR](PUBLIC_FINANCE_MODEL_ar.md) |
+| Legal and financial notes | [EN](LEGAL_AND_FINANCIAL_NOTES.md) | [JA](LEGAL_AND_FINANCIAL_NOTES_ja.md) | [AR](LEGAL_AND_FINANCIAL_NOTES_ar.md) |

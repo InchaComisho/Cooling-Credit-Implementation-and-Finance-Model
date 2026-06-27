@@ -1,41 +1,18 @@
-# クーリングクレジット実装・資金循環モデル 詳細文書
+# 詳細文書索引
 
 [English](README.md) | [日本語](README_ja.md) | [العربية](README_ar.md)
 
-このディレクトリは、`Cooling-Credit-Implementation-and-Finance-Model` の詳細設計文書をまとめるための索引である。
+[ルートREADME](../README_ja.md)
 
-本リポジトリの中心テーマは、気候金融を「排出の帳簿処理」から「実測可能な冷却成果」へ移行することである。  
-そのために、実装、制度設計、MRV、資金循環、公的資金、法制度上の注意を分けて整理する。
-
----
+クーリングクレジットの実装、制度設計、MRV、資金循環、公的資金、金融・法制度上の注意を、三言語で整理している。
 
 ## 詳細文書
 
-- [実装フレームワーク](IMPLEMENTATION_FRAMEWORK_ja.md)
-- [制度設計](INSTITUTIONAL_DESIGN_ja.md)
-- [MRVモデル](MRV_MODEL_ja.md)
-- [資金循環モデル](FINANCE_FLOW_MODEL_ja.md)
-- [公的資金・防災金融モデル](PUBLIC_FINANCE_MODEL_ja.md)
-- [金融商品化と法制度上の注意](LEGAL_AND_FINANCIAL_NOTES_ja.md)
-
----
-
-## 基本思想
-
-クーリングクレジットは、カーボンクレジットのように排出を帳簿上で相殺する制度ではない。
-
-評価すべき中心は、次の三つである。
-
-```text
-1. 地域と地球の熱負荷がどれだけ下がったか
-2. 自然冷却機能がどれだけ回復したか
-3. 災害・医療・電力・農業・水資源・海洋被害がどれだけ軽減されたか
-```
-
-したがって、クーリングクレジットは単なる環境証書ではなく、熱会計、成果連動型資金循環、防災金融、気候適応投資、自然再生型インフラ投資を接続する実装モデルである。
-
----
-
-## 位置づけ
-
-この詳細文書群は、政策提案、自治体実証、企業ESG投資、保険リスク低減、気候適応事業、地域再生事業において、クーリングクレジットを実装するための基礎設計として利用できる。
+| 分野 | English | 日本語 | العربية |
+|---|---|---|---|
+| 実装フレームワーク | [EN](IMPLEMENTATION_FRAMEWORK.md) | [JA](IMPLEMENTATION_FRAMEWORK_ja.md) | [AR](IMPLEMENTATION_FRAMEWORK_ar.md) |
+| 制度設計 | [EN](INSTITUTIONAL_DESIGN.md) | [JA](INSTITUTIONAL_DESIGN_ja.md) | [AR](INSTITUTIONAL_DESIGN_ar.md) |
+| MRVモデル | [EN](MRV_MODEL.md) | [JA](MRV_MODEL_ja.md) | [AR](MRV_MODEL_ar.md) |
+| 資金循環モデル | [EN](FINANCE_FLOW_MODEL.md) | [JA](FINANCE_FLOW_MODEL_ja.md) | [AR](FINANCE_FLOW_MODEL_ar.md) |
+| 公的資金・防災金融モデル | [EN](PUBLIC_FINANCE_MODEL.md) | [JA](PUBLIC_FINANCE_MODEL_ja.md) | [AR](PUBLIC_FINANCE_MODEL_ar.md) |
+| 金融商品化と法制度上の注意 | [EN](LEGAL_AND_FINANCIAL_NOTES.md) | [JA](LEGAL_AND_FINANCIAL_NOTES_ja.md) | [AR](LEGAL_AND_FINANCIAL_NOTES_ar.md) |

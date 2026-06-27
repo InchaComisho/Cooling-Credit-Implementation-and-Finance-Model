@@ -584,3 +584,17 @@ CC BY 4.0
 #ESG投資  
 #気候適応  
 #自然補完科学
+
+---
+
+## 詳細実装文書
+
+本モデルは、実装、制度設計、MRV、資金循環、公的資金、金融商品化と法制度上の注意に分けて詳細化している。
+
+- [詳細文書索引](docs/README_ja.md)
+- [実装フレームワーク](docs/IMPLEMENTATION_FRAMEWORK_ja.md)
+- [制度設計](docs/INSTITUTIONAL_DESIGN_ja.md)
+- [MRVモデル](docs/MRV_MODEL_ja.md)
+- [資金循環モデル](docs/FINANCE_FLOW_MODEL_ja.md)
+- [公的資金・防災金融モデル](docs/PUBLIC_FINANCE_MODEL_ja.md)
+- [金融商品化と法制度上の注意](docs/LEGAL_AND_FINANCIAL_NOTES_ja.md)

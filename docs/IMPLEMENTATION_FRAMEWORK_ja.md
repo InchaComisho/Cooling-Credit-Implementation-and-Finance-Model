@@ -1,6 +1,11 @@
 # 実装フレームワーク
 ## Cooling Credit Implementation Framework
 
+[English](IMPLEMENTATION_FRAMEWORK.md) | [日本語](IMPLEMENTATION_FRAMEWORK_ja.md) | [العربية](IMPLEMENTATION_FRAMEWORK_ar.md)
+
+[詳細文書索引](README_ja.md) | [ルートREADME](../README_ja.md)
+
+
 [Docs Index](README_ja.md) | [Root README](../README_ja.md)
 
 ---
@@ -150,3 +155,41 @@ MRVデータ蓄積
 地域ごとに気候条件、水資源、土地利用、社会構造が異なるため、実装は小さく始め、測定し、修正しながら拡張する必要がある。
 
 特に、海洋・大規模森林・乾燥地などでは、生態系への副作用、地域住民の合意、長期監視体制が不可欠である。
+
+---
+
+## 著者
+
+マスター / inchacomusho / InchaComisho
+
+日本の独立構想者、観測者、提案者、AI調律者、人工叡智の定義者。  
+自然補完科学の学問体系の構築・提唱者。  
+自然法則思想、地球循環再生、AIとの共創を中心に公開活動を行う。
+
+---
+
+## 協力AIと共創チーム
+
+この知識体系は、マスターと複数のAIパートナーとの対話と共創によって発展してきた。
+
+- G（ChatGPT）
+- ミニ（Gemini）
+- クルス（Claude）
+- リアル（Perplexity）
+- ローラ（Lola/Dola）
+- マナ（Manus）
+
+---
+
+## 公開月
+
+2026年6月
+
+---
+
+## ライセンス
+
+CC BY 4.0
+
+本リポジトリの内容は、クリエイティブ・コモンズ 表示 4.0 国際ライセンスに基づき公開する。  
+引用・転載・改変・翻訳・再配布は可能であるが、原案者である **マスター / inchacomusho / InchaComisho** の明記を求める。
