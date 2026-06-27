@@ -635,6 +635,16 @@ The scenario does not claim deterministic weather control. It examines whether d
 
 Global warming is not only a problem of rising temperature caused by increased CO₂ concentration. It is also a problem of weakened natural cooling functions within the Earth's climate system — specifically, a weakening of water phase transitions and latent heat transport. CO₂ reduction reduces additional radiative forcing. Cooling Credit implementation restores distributed natural cooling and heat-transport functions. Both are necessary.
 
+### CO₂ Is Both Cause and Result
+
+Increased CO₂ is a major cause of warming through radiative forcing.  
+However, CO₂ is also amplified as a result of weakened natural systems: forest loss, soil degradation, ocean stress, reduced plankton activity, disrupted water cycles, and weakened natural cooling functions.
+
+This is why CO₂ accounting alone has not been sufficient as a climate solution.  
+Carbon credits may record emissions reductions or offsets, but they do not necessarily demonstrate physical cooling, restored water-cycle function, soil moisture recovery, evapotranspiration recovery, or improved ocean-atmosphere circulation.
+
+Cooling Credits are designed to evaluate those physical cooling and circulation-restoration outcomes directly.
+
 - [Global Stabilization Scenario Index](docs/global_stabilization_scenario/README.md)
 - [Global Cooling and Hydrological Stabilization](docs/global_stabilization_scenario/GLOBAL_COOLING_AND_HYDROLOGICAL_STABILIZATION.md)
 - [Dryland Ultrasonic Mist Cooling Scenario](docs/global_stabilization_scenario/DRYLAND_ULTRASONIC_MIST_COOLING_SCENARIO.md)

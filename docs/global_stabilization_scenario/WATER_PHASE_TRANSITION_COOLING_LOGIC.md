@@ -24,6 +24,37 @@ Potential moderation of climate-related disaster scale, concentration, and extre
 
 This is not a deterministic weather-control model. It is a conceptual framework for evaluating how water phase transitions and latent heat transport may be restored as part of Cooling Credit implementation.
 
+## Beyond a Single-Cause CO₂ View
+
+Global warming should not be understood only as a single-cause problem of CO₂ concentration.
+
+Increased CO₂ is a major cause of warming because it strengthens radiative forcing.  
+However, CO₂ is also amplified as a result of weakened natural systems.
+
+When forests decline, soils lose organic matter, ocean ecosystems are stressed, plankton activity weakens, water cycles are disrupted, and natural cooling functions decline, the Earth loses part of its ability to absorb carbon, move heat, circulate water, and regulate temperature.
+
+In this sense, CO₂ is both a cause and a result.
+
+This is one reason why climate solutions based only on CO₂ accounting have not been sufficient.  
+Carbon credits may function as emissions-accounting tools, but they do not necessarily prove that existing heat load has been reduced, water-cycle cooling has been restored, soil moisture has recovered, evapotranspiration has increased, or ocean-atmosphere circulation has improved.
+
+The limitation is not that CO₂ reduction is unnecessary.  
+CO₂ reduction is necessary.
+
+The limitation is that CO₂ reduction alone does not automatically restart the Earth's natural cooling functions.
+
+Cooling Credit implementation therefore evaluates not only emissions, but also physical cooling, water retention, soil recovery, evapotranspiration, dryland cooling, ocean/coastal support, and the restoration of heat-transport functions.
+
+In short:
+
+```text
+Carbon credits ask:
+How much CO₂ was reduced, removed, or offset?
+
+Cooling Credits ask:
+How much heat load, water-cycle disruption, soil moisture loss, and natural cooling-function decline were physically reduced?
+```
+
 ## Explanation
 
 The chain above describes a potential feedback dynamic, not a guaranteed outcome.

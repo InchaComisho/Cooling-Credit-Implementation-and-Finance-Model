@@ -22,6 +22,24 @@ Cooling Credit implementation restores distributed natural cooling and heat-tran
 
 Both are necessary.
 
+## Beyond a Single-Cause CO₂ View
+
+Global warming should not be understood only as a single-cause problem of CO₂ concentration.
+
+Increased CO₂ is a major cause of warming because it strengthens radiative forcing.  
+However, CO₂ is also amplified as a result of weakened natural systems.
+
+When forests decline, soils lose organic matter, ocean ecosystems are stressed, plankton activity weakens, water cycles are disrupted, and natural cooling functions decline, the Earth loses part of its ability to absorb carbon, move heat, circulate water, and regulate temperature.
+
+In this sense, CO₂ is both a cause and a result.
+
+Carbon credits may function as emissions-accounting tools, but they do not necessarily prove that existing heat load has been reduced, water-cycle cooling has been restored, soil moisture has recovered, evapotranspiration has increased, or ocean-atmosphere circulation has improved.
+
+CO₂ reduction is necessary.  
+The limitation is that CO₂ reduction alone does not automatically restart the Earth's natural cooling functions.
+
+Cooling Credit implementation evaluates not only emissions, but also physical cooling, water retention, soil recovery, evapotranspiration, dryland cooling, ocean/coastal support, and the restoration of heat-transport functions.
+
 ## Documents
 
 - [Global Cooling and Hydrological Stabilization](GLOBAL_COOLING_AND_HYDROLOGICAL_STABILIZATION.md)
