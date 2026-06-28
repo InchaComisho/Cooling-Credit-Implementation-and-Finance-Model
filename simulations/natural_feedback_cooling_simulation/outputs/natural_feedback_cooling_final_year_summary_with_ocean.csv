@@ -1,0 +1,7 @@
+scenario,cooling_credit_value,physical_cooling_index,water_retention_index,evapotranspiration_recovery_index,ocean_surface_cooling_index,dissolved_oxygen_recovery_index,marine_food_web_recovery_index,fishery_tourism_cobenefit_index,disaster_pressure_reduction_index,local_economic_cobenefit_index
+Integrated Natural Feedback,47.625111,54.088575,97.539302,89.966978,45.875875,48.103638,47.067615,48.329319,63.648194,68.038196
+Forest Regeneration,10.689768,22.726675,59.172337,64.241490,6.557932,8.644615,9.483216,14.368591,32.660780,41.489461
+Organic Waste to Humus,7.836838,18.857151,56.583729,50.968022,3.998821,5.324474,8.135250,11.268325,22.925550,39.563745
+EEZ Ocean Cooling,6.951373,20.253120,27.637386,23.057313,49.407877,50.963932,56.953311,57.210028,18.288371,29.792036
+Urban Mist Cooling,4.656995,19.104999,29.206800,21.575602,3.280316,4.327338,9.183232,8.940645,16.846969,25.025919
+Accounting Offset Only,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,4.500000,1.500000,0.000000,3.750000
