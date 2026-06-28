@@ -4,7 +4,7 @@
 
 [ルートREADME](../README_ja.md)
 
-クーリングクレジットの実装、制度設計、MRV、資金循環、公的資金、金融・法制度上の注意を、三言語で整理している。
+クーリングクレジットの実装、制度設計、MRV、資金循環、公的資金、金融・法制度上の注意、支払主体、維持管理循環、ガバナンスを三言語で整理している。
 
 ## 詳細文書
 
@@ -16,6 +16,9 @@
 | 資金循環モデル | [EN](FINANCE_FLOW_MODEL.md) | [JA](FINANCE_FLOW_MODEL_ja.md) | [AR](FINANCE_FLOW_MODEL_ar.md) |
 | 公的資金・防災金融モデル | [EN](PUBLIC_FINANCE_MODEL.md) | [JA](PUBLIC_FINANCE_MODEL_ja.md) | [AR](PUBLIC_FINANCE_MODEL_ar.md) |
 | 金融商品化と法制度上の注意 | [EN](LEGAL_AND_FINANCIAL_NOTES.md) | [JA](LEGAL_AND_FINANCIAL_NOTES_ja.md) | [AR](LEGAL_AND_FINANCIAL_NOTES_ar.md) |
+| 支払主体モデル | [EN](STAKEHOLDER_PAYMENT_MODEL.md) | [JA](STAKEHOLDER_PAYMENT_MODEL_ja.md) | [AR](STAKEHOLDER_PAYMENT_MODEL_ar.md) |
+| 収益循環・維持管理モデル | [EN](REVENUE_AND_MAINTENANCE_FLOW.md) | [JA](REVENUE_AND_MAINTENANCE_FLOW_ja.md) | [AR](REVENUE_AND_MAINTENANCE_FLOW_ar.md) |
+| ガバナンス・グリーンウォッシュ防止 | [EN](GOVERNANCE_AND_ANTI_GREENWASHING.md) | [JA](GOVERNANCE_AND_ANTI_GREENWASHING_ja.md) | [AR](GOVERNANCE_AND_ANTI_GREENWASHING_ar.md) |
 
 ## 実装ロードマップ・シミュレーション資料
 
