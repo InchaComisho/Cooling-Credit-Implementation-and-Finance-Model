@@ -2,7 +2,7 @@
 
 [English](RESULTS.md) | [日本語](RESULTS_ja.md) | [العربية](RESULTS_ar.md)
 
-This page summarizes the conceptual simulation output comparing accounting-style offset value with Cooling Credit scenarios based on measured physical cooling, water retention, evapotranspiration, humus recovery, forest regeneration, EEZ ocean cooling, oxygenation, fishery recovery, disaster-pressure reduction, and local economic co-benefits.
+This page summarizes the conceptual simulation output comparing accounting-style offset value with Cooling Credit scenarios based on measured physical cooling, water retention, evapotranspiration, humus recovery, forest regeneration, EEZ ocean cooling, coastal desert-edge regeneration, disaster-pressure reduction, and local economic co-benefits.
 
 The charts use English labels, but each figure includes captions in English, Japanese, and Arabic so that the meaning is understandable even when the chart text is English.
 
@@ -10,72 +10,65 @@ The charts use English labels, but each figure includes captions in English, Jap
 
 ## Key Result
 
-The **Integrated Natural Feedback** scenario produces the strongest total Cooling Credit value because it combines urban cooling, organic-waste-to-humus conversion, forest regeneration, soil-water recovery, evapotranspiration recovery, ocean circulation, MRV confidence, ecological safety, and local participation.
+The **Integrated Natural Feedback** scenario produces the strongest total Cooling Credit value because urban cooling, humus recovery, forest regeneration, ocean circulation, desert-edge regeneration, MRV confidence, ecological safety, and local participation reinforce one another.
 
-The **EEZ Ocean Cooling** scenario is strongest in ocean-specific indicators, including ocean surface cooling, dissolved oxygen recovery, marine food-web recovery, and fishery / tourism co-benefits.
+The **Coastal Desert Edge Regeneration** scenario is strongest in desert-specific indicators, including desalination-supported water supply, UMS cooling, humus and microbial settlement, desert-edge vegetation, pyramid solar / vertical wind energy, and underground settlement efficiency.
 
-The **Accounting Offset Only** scenario can increase ledger value, but in this conceptual model it does not produce physical cooling, water retention, evapotranspiration recovery, ocean cooling, oxygen recovery, or disaster-pressure reduction.
+The **EEZ Ocean Cooling** scenario remains strongest in ocean-specific indicators, including ocean surface cooling, dissolved oxygen recovery, marine food-web recovery, and fishery / tourism co-benefits.
+
+The **Accounting Offset Only** scenario can increase ledger value, but in this conceptual model it does not produce physical cooling, water retention, evapotranspiration recovery, ocean recovery, desert-edge regeneration, or disaster-pressure reduction.
 
 ---
 
 ## Final-Year Summary
 
-| Scenario | Cooling Credit Value | Physical Cooling | Water Retention | Evapotranspiration | Ocean Surface Cooling | Dissolved Oxygen | Marine Food Web | Fishery / Tourism | Disaster Pressure Reduction | Local Co-benefit |
-|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Integrated Natural Feedback | 47.63 | 54.09 | 97.54 | 89.97 | 45.88 | 48.10 | 47.07 | 48.33 | 63.65 | 68.04 |
-| Forest Regeneration | 10.69 | 22.73 | 59.17 | 64.24 | 6.56 | 8.64 | 9.48 | 14.37 | 32.66 | 41.49 |
-| Organic Waste to Humus | 7.84 | 18.86 | 56.58 | 50.97 | 4.00 | 5.32 | 8.14 | 11.27 | 22.93 | 39.56 |
-| EEZ Ocean Cooling | 6.95 | 20.25 | 27.64 | 23.06 | 49.41 | 50.96 | 56.95 | 57.21 | 18.29 | 29.79 |
-| Urban Mist Cooling | 4.66 | 19.10 | 29.21 | 21.58 | 3.28 | 4.33 | 9.18 | 8.94 | 16.85 | 25.03 |
-| Accounting Offset Only | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 4.50 | 1.50 | 0.00 | 3.75 |
+| Scenario | Cooling Credit Value | Physical Cooling | Water Retention | Evapotranspiration | Ocean Surface Cooling | Dissolved Oxygen | Marine Food Web | Desert Surface Cooling | Desert Water Supply | Humus Settlement | Desert Vegetation | Desert Energy / Underground | Disaster Pressure Reduction | Local Co-benefit |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Integrated Natural Feedback | 43.88 | 52.01 | 100.00 | 91.52 | 46.42 | 48.68 | 47.63 | 45.03 | 47.24 | 59.66 | 46.18 | 55.13 | 61.86 | 71.85 |
+| Coastal Desert Edge Regeneration | 9.40 | 22.09 | 63.83 | 47.99 | 5.50 | 7.73 | 9.16 | 43.53 | 46.19 | 48.66 | 42.05 | 59.20 | 27.84 | 41.84 |
+| Forest Regeneration | 8.17 | 19.73 | 49.54 | 57.86 | 6.56 | 8.64 | 9.48 | 7.36 | 7.71 | 16.93 | 8.97 | 6.25 | 26.04 | 38.38 |
+| Organic Waste to Humus | 6.22 | 16.55 | 49.36 | 46.97 | 4.00 | 5.32 | 8.14 | 7.50 | 8.85 | 25.87 | 9.23 | 6.42 | 18.90 | 36.70 |
+| EEZ Ocean Cooling | 5.18 | 17.09 | 22.94 | 20.45 | 49.41 | 50.96 | 56.95 | 6.61 | 8.29 | 10.03 | 6.33 | 9.68 | 15.42 | 28.88 |
+| Urban Mist Cooling | 3.73 | 16.54 | 25.34 | 18.71 | 3.28 | 4.33 | 9.18 | 5.33 | 5.98 | 10.23 | 4.41 | 6.74 | 13.77 | 23.76 |
+| Accounting Offset Only | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 4.50 | 0.00 | 0.00 | 4.50 | 0.00 | 0.45 | 0.00 | 3.51 |
 
 ---
 
 ## Figures
 
-### Accounting Offset Value: Ledger Growth Without Guaranteed Cooling
+### Cooling Credit Value with Desert Edge Scenario
 
-![Accounting Offset Value](outputs/accounting_offset_value.svg)
+![Cooling Credit Value with Desert](outputs/cooling_credit_value_with_desert.svg)
 
-- **EN:** This figure shows how ledger-style offset value can rise even when the accounting-only scenario does not generate measured cooling, water retention, evapotranspiration, ocean recovery, or disaster-pressure reduction.
-- **JA:** この図は、帳簿上の相殺価値が増えても、会計だけのシナリオでは測定された冷却・保水・蒸散・海洋回復・災害圧力低減が発生しないことを示す。
-- **AR:** يوضح هذا الشكل أن قيمة التعويض المحاسبية قد ترتفع حتى عندما لا ينتج سيناريو المحاسبة وحده تبريدًا مقاسًا أو احتفاظًا بالماء أو تبخرًا-نتحًا أو تعافيًا بحريًا أو خفضًا لضغط الكوارث.
-
----
-
-### Cooling Credit Value with EEZ Ocean Scenario
-
-![Cooling Credit Value with Ocean](outputs/cooling_credit_value_with_ocean.svg)
-
-- **EN:** This figure compares total Cooling Credit value across land, urban, forest, ocean, and integrated scenarios. The integrated scenario is highest because multiple feedbacks reinforce each other.
-- **JA:** この図は、陸・都市・森林・海洋・統合シナリオの総合クーリングクレジット価値を比較する。統合シナリオは複数のフィードバックが相互強化されるため最も高い。
-- **AR:** يقارن هذا الشكل القيمة الإجمالية لأرصدة التبريد بين سيناريوهات اليابسة والمدن والغابات والمحيط والتكامل. يكون السيناريو المتكامل أعلى لأن عدة حلقات تغذية راجعة تعزز بعضها بعضًا.
+- **EN:** This figure compares total Cooling Credit value after adding the coastal desert-edge scenario. Integrated natural feedback remains highest because multiple land, ocean, forest, soil, and desert feedbacks reinforce one another.
+- **JA:** この図は、沿岸・砂漠外輪シナリオを加えた総合クーリングクレジット価値を比較する。統合自然フィードバックは、陸・海・森林・土壌・砂漠の複数フィードバックが相互強化されるため最も高い。
+- **AR:** يقارن هذا الشكل القيمة الإجمالية لأرصدة التبريد بعد إضافة سيناريو حافة الصحراء الساحلية. يبقى السيناريو المتكامل أعلى لأن حلقات اليابسة والمحيط والغابات والتربة والصحراء تعزز بعضها بعضًا.
 
 ---
 
-### Final-Year Physical Outcomes with EEZ Ocean Scenario
+### Desert Edge Regeneration Outcomes
 
-![Final-Year Physical Outcomes with Ocean](outputs/final_year_physical_outcomes_with_ocean.svg)
+![Desert Edge Regeneration Outcomes](outputs/desert_edge_regeneration_outcomes.svg)
 
-- **EN:** This figure compares final-year physical and social outcomes after adding the EEZ ocean scenario. Ocean cooling adds a marine pillar, while integrated feedback remains strongest overall.
-- **JA:** この図は、EEZ海洋シナリオを加えた最終年の物理的・社会的成果を比較する。海洋冷却は海の柱を追加し、統合フィードバックは全体として最も強い。
-- **AR:** يقارن هذا الشكل النتائج الفيزيائية والاجتماعية في السنة الأخيرة بعد إضافة سيناريو تبريد المحيط داخل EEZ. يضيف تبريد المحيط ركيزة بحرية، بينما يبقى سيناريو التغذية الراجعة المتكاملة الأقوى إجمالًا.
+- **EN:** This figure focuses on desert-specific outcomes. Coastal desert-edge regeneration is strongest in desalination-supported water supply, mist cooling, humus settlement, vegetation recovery, and energy / underground settlement efficiency.
+- **JA:** この図は砂漠特化の成果を示す。沿岸・砂漠外輪再生は、淡水化による水供給、ミスト冷却、腐葉土定着、植生回復、地上エネルギー・地下居住効率で強い。
+- **AR:** يركز هذا الشكل على نتائج الصحراء. يكون سيناريو حافة الصحراء الساحلية قويًا في إمداد المياه المدعوم بالتحلية، والتبريد بالرذاذ، واستقرار الدبال، وتعافي الغطاء النباتي، وكفاءة الطاقة والسكن تحت الأرض.
 
 ---
 
-### Ocean Cooling and Marine Co-benefit Outcomes
+### Final-Year Physical Outcomes with Ocean and Desert Scenarios
 
-![Ocean Cooling and Fishery Outcomes](outputs/ocean_cooling_fishery_outcomes.svg)
+![Final-Year Physical Outcomes with Desert](outputs/final_year_physical_outcomes_with_desert.svg)
 
-- **EN:** This figure focuses on ocean-specific outcomes. EEZ Ocean Cooling is strongest in marine indicators such as surface cooling, dissolved oxygen, food-web recovery, and fishery / tourism co-benefits.
-- **JA:** この図は海洋に特化した成果を示す。EEZ海洋冷却は、海面冷却、溶存酸素、食物網回復、漁業・観光共便益といった海洋指標で最も強い。
-- **AR:** يركز هذا الشكل على النتائج البحرية. يكون سيناريو تبريد المحيط داخل EEZ أقوى في مؤشرات مثل تبريد السطح، والأكسجين المذاب، وتعافي شبكة الغذاء، ومنافع المصايد والسياحة.
+- **EN:** This figure compares selected final-year physical outcomes after adding both ocean and desert scenarios. Ocean and desert scenarios each become strongest in their specialized domains.
+- **JA:** この図は、海洋と砂漠の両方を加えた最終年の物理成果を比較する。海洋と砂漠は、それぞれの専門領域で強い値を示す。
+- **AR:** يقارن هذا الشكل بعض النتائج الفيزيائية في السنة الأخيرة بعد إضافة سيناريوهات المحيط والصحراء. يصبح كل من المحيط والصحراء أقوى في مجاله المتخصص.
 
 ---
 
 ## Data File
 
-- [Final-year summary CSV with ocean scenario](outputs/natural_feedback_cooling_final_year_summary_with_ocean.csv)
+- [Final-year summary CSV with desert scenario](outputs/natural_feedback_cooling_final_year_summary_with_desert.csv)
 
 The Python script also generates a full timeseries CSV when executed locally.
 
@@ -83,4 +76,4 @@ The Python script also generates a full timeseries CSV when executed locally.
 
 ## Caution
 
-This is a conceptual deterministic model, not a weather forecast, hydrological forecast, crop forecast, fishery forecast, disaster forecast, or investment recommendation. Replace all default assumptions with locally measured data, ecological safety review, stop conditions, and independent MRV before policy, subsidy, insurance, or investment use.
+This is a conceptual deterministic model, not a weather forecast, hydrological forecast, crop forecast, fishery forecast, disaster forecast, or investment recommendation. Replace all default assumptions with locally measured data, ecological safety review, sanitation tests, stop conditions, and independent MRV before policy, subsidy, insurance, or investment use.
