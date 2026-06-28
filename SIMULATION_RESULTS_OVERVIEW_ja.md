@@ -107,14 +107,14 @@
 
 | 事業モデル | まず見るシミュレーション |
 |---|---|
-| EEZ漁場回復 | [Natural Feedback Cooling Simulation](simulations/natural_feedback_cooling_simulation/README.md) の EEZ Ocean Cooling |
-| 観光資源回復 | [Tourism Resource Recovery Simulation](simulations/tourism_resource_recovery_simulation/README.md) |
-| 砂漠循環ピラミッド都市 | [Natural Feedback Cooling Simulation](simulations/natural_feedback_cooling_simulation/README.md) の Coastal Desert Edge Regeneration |
-| 都市緑地・冷却インフラ | [Urban Cooling Cost-Benefit](simulations/urban_cooling_cost_benefit_model/README.md) と Natural Feedback Cooling |
-| 単一植林→在来果樹混交林 | [Forest Conversion Business Simulation](simulations/forest_conversion_business_simulation/README.md) |
-| センター超音波ミスト冷却ファン | [Urban Cooling Cost-Benefit](simulations/urban_cooling_cost_benefit_model/README.md) と Natural Feedback Cooling |
-| フードロス・有機ごみ腐葉土化 | [Soil Recovery Agriculture](simulations/soil_recovery_agriculture_model/README.md) と Natural Feedback Cooling |
-| 有機物循環・土壌回復・砂漠緑化 | [Soil Recovery Agriculture](simulations/soil_recovery_agriculture_model/README.md) と Natural Feedback Cooling |
+| EEZ漁場回復 | [Natural Feedback Cooling Simulation](simulations/natural_feedback_cooling_simulation/README_ja.md) の EEZ Ocean Cooling |
+| 観光資源回復 | [Tourism Resource Recovery Simulation](simulations/tourism_resource_recovery_simulation/README_ja.md) |
+| 砂漠循環ピラミッド都市 | [Natural Feedback Cooling Simulation](simulations/natural_feedback_cooling_simulation/README_ja.md) の Coastal Desert Edge Regeneration |
+| 都市緑地・冷却インフラ | [Urban Cooling Cost-Benefit](simulations/urban_cooling_cost_benefit_model/README_ja.md) と Natural Feedback Cooling |
+| 単一植林→在来果樹混交林 | [Forest Conversion Business Simulation](simulations/forest_conversion_business_simulation/README_ja.md) |
+| センター超音波ミスト冷却ファン | [Urban Cooling Cost-Benefit](simulations/urban_cooling_cost_benefit_model/README_ja.md) と Natural Feedback Cooling |
+| フードロス・有機ごみ腐葉土化 | [Soil Recovery Agriculture](simulations/soil_recovery_agriculture_model/README_ja.md) と Natural Feedback Cooling |
+| 有機物循環・土壌回復・砂漠緑化 | [Soil Recovery Agriculture](simulations/soil_recovery_agriculture_model/README_ja.md) と Natural Feedback Cooling |
 
 ---
 
