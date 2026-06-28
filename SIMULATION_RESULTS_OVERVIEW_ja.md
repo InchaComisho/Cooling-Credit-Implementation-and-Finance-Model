@@ -76,7 +76,7 @@
 
 対応するシミュレーションは次である。
 
-- [Tourism Resource Recovery Simulation](simulations/tourism_resource_recovery_simulation/README.md)
+- [Tourism Resource Recovery Simulation](simulations/tourism_resource_recovery_simulation/README_ja.md)
 - [Tourism Final Summary CSV](simulations/tourism_resource_recovery_simulation/outputs/tourism_resource_recovery_final_summary.csv)
 
 ---
@@ -98,7 +98,7 @@
 
 対応するシミュレーションは次である。
 
-- [Forest Conversion Business Simulation](simulations/forest_conversion_business_simulation/README.md)
+- [Forest Conversion Business Simulation](simulations/forest_conversion_business_simulation/README_ja.md)
 - [Forest Final Summary CSV](simulations/forest_conversion_business_simulation/outputs/forest_conversion_final_summary.csv)
 
 ---
