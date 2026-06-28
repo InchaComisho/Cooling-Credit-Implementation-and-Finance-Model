@@ -1,8 +1,16 @@
 # Business Model Simulation Map
 
-[Simulation Package](simulations/README.md) | [Cooling Credit Framework Business Models](https://github.com/InchaComisho/Cooling-Credit-Framework/tree/main/docs/business_models)
+[Simulation Results Overview](SIMULATION_RESULTS_OVERVIEW.md) | [Simulation Package](simulations/README.md) | [Cooling Credit Framework Business Models](https://github.com/InchaComisho/Cooling-Credit-Framework/tree/main/docs/business_models)
+
+Languages: [English](SIMULATION_RESULTS_OVERVIEW.md) | [日本語](SIMULATION_RESULTS_OVERVIEW_ja.md) | [العربية](SIMULATION_RESULTS_OVERVIEW_ar.md)
 
 This file maps the Cooling Credit business models in `Cooling-Credit-Framework/docs/business_models` to the corresponding simulation modules in this repository.
+
+For a more readable visual explanation, start from the one-page overview:
+
+- [Simulation Results Overview — English](SIMULATION_RESULTS_OVERVIEW.md)
+- [シミュレーション結果一覧 — 日本語](SIMULATION_RESULTS_OVERVIEW_ja.md)
+- [نظرة عامة على نتائج المحاكاة — العربية](SIMULATION_RESULTS_OVERVIEW_ar.md)
 
 The purpose is to make the pathway clear:
 
@@ -52,6 +60,7 @@ These models are not forecasts. They are transparent conceptual simulations inte
 
 ## Main Simulation Package
 
+- [Simulation Results Overview](SIMULATION_RESULTS_OVERVIEW.md)
 - [Simulation Package Index](simulations/README.md)
 - [Natural Feedback Cooling Simulation](simulations/natural_feedback_cooling_simulation/README.md)
 - [Tourism Resource Recovery Simulation](simulations/tourism_resource_recovery_simulation/README.md)
