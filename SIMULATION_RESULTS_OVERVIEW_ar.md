@@ -111,14 +111,14 @@
 
 | نموذج الأعمال | المحاكاة المقترحة |
 |---|---|
-| استعادة المصايد في EEZ | [Natural Feedback Cooling Simulation](simulations/natural_feedback_cooling_simulation/README.md)، وخاصة EEZ Ocean Cooling |
-| استعادة الموارد السياحية | [Tourism Resource Recovery Simulation](simulations/tourism_resource_recovery_simulation/README.md) |
-| مدينة الصحراء الهرمية الدائرية | [Natural Feedback Cooling Simulation](simulations/natural_feedback_cooling_simulation/README.md)، وخاصة Coastal Desert Edge Regeneration |
-| البنية الخضراء الحضرية | [Urban Cooling Cost-Benefit](simulations/urban_cooling_cost_benefit_model/README.md) و Natural Feedback Cooling |
-| تحويل الغابات أحادية النبات إلى غابات مختلطة | [Forest Conversion Business Simulation](simulations/forest_conversion_business_simulation/README.md) |
-| مروحة الرذاذ فوق الصوتية المركزية | [Urban Cooling Cost-Benefit](simulations/urban_cooling_cost_benefit_model/README.md) و Natural Feedback Cooling |
-| تحويل فقد الغذاء والنفايات العضوية إلى دبال | [Soil Recovery Agriculture](simulations/soil_recovery_agriculture_model/README.md) و Natural Feedback Cooling |
-| دورة المادة العضوية لاستعادة التربة وتخضير المناطق الجافة | [Soil Recovery Agriculture](simulations/soil_recovery_agriculture_model/README.md) و Natural Feedback Cooling |
+| استعادة المصايد في EEZ | [Natural Feedback Cooling Simulation](simulations/natural_feedback_cooling_simulation/README_ar.md)، وخاصة EEZ Ocean Cooling |
+| استعادة الموارد السياحية | [Tourism Resource Recovery Simulation](simulations/tourism_resource_recovery_simulation/README_ar.md) |
+| مدينة الصحراء الهرمية الدائرية | [Natural Feedback Cooling Simulation](simulations/natural_feedback_cooling_simulation/README_ar.md)، وخاصة Coastal Desert Edge Regeneration |
+| البنية الخضراء الحضرية | [Urban Cooling Cost-Benefit](simulations/urban_cooling_cost_benefit_model/README_ar.md) و Natural Feedback Cooling |
+| تحويل الغابات أحادية النبات إلى غابات مختلطة | [Forest Conversion Business Simulation](simulations/forest_conversion_business_simulation/README_ar.md) |
+| مروحة الرذاذ فوق الصوتية المركزية | [Urban Cooling Cost-Benefit](simulations/urban_cooling_cost_benefit_model/README_ar.md) و Natural Feedback Cooling |
+| تحويل فقد الغذاء والنفايات العضوية إلى دبال | [Soil Recovery Agriculture](simulations/soil_recovery_agriculture_model/README_ar.md) و Natural Feedback Cooling |
+| دورة المادة العضوية لاستعادة التربة وتخضير المناطق الجافة | [Soil Recovery Agriculture](simulations/soil_recovery_agriculture_model/README_ar.md) و Natural Feedback Cooling |
 
 ---
 
