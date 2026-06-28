@@ -1,0 +1,5 @@
+year,scenario,tourism_cooling_credit_value,destination_comfort_index,natural_cooling_asset_index,water_landscape_ecosystem_index,visitor_stay_income_index,overtourism_risk_index,local_economic_cobenefit_index
+15,Integrated Regenerative Destination,57.05,59.50,56.22,57.72,61.22,5.86,66.60
+15,Cooling Tourism Recovery,29.81,47.43,42.96,43.73,47.34,12.35,51.86
+15,Conventional Tourism Development,0.53,15.84,3.72,4.91,24.14,65.30,18.38
+15,Degraded Destination,0.11,4.02,1.18,1.68,5.74,13.17,5.27
