@@ -30,8 +30,6 @@
 
 يقارن هذا الشكل قيمة أرصدة التبريد الإجمالية بين سيناريوهات المدن، والتربة، والغابات، والمحيط، وحافة الصحراء، والسيناريو المتكامل.
 
-طريقة القراءة:
-
 - **Integrated Natural Feedback** هو الأعلى لأن عدة حلقات تغذية راجعة تعزز بعضها بعضًا.
 - **Coastal Desert Edge Regeneration** قوي في مؤشرات الصحراء، لكنه لا يستعيد وحده جميع وظائف التبريد الكوكبية.
 - **EEZ Ocean Cooling** قوي في مؤشرات المحيط، لكنه لا يستعيد وحده التربة والغابات والمدن.
@@ -43,20 +41,11 @@
 
 ![Ocean Cooling and Marine Co-benefit Outcomes](simulations/natural_feedback_cooling_simulation/outputs/ocean_cooling_fishery_outcomes.svg)
 
-يركز هذا الشكل على النتائج البحرية.
-
-المؤشرات الرئيسية:
-
-- تبريد سطح المحيط،
-- تعافي الأكسجين المذاب،
-- تعافي شبكة الغذاء البحرية،
-- منافع المصايد والسياحة.
+يركز هذا الشكل على النتائج البحرية: تبريد سطح المحيط، وتعافي الأكسجين المذاب، وتعافي شبكة الغذاء البحرية، ومنافع المصايد والسياحة.
 
 نموذج الأعمال الرئيسي:
 
 - **EEZ Fishery Recovery Cooling Credit Business Model**
-
-تُقيّم أنظمة OBS / OTU / UMS عبر حرارة المحيط، والأكسجين، والدوران الرأسي، وأساس العوالق، والمصايد، وقيمة السياحة.
 
 ---
 
@@ -64,15 +53,7 @@
 
 ![Desert Edge Regeneration Outcomes](simulations/natural_feedback_cooling_simulation/outputs/desert_edge_regeneration_outcomes.svg)
 
-يركز هذا الشكل على نتائج الصحراء.
-
-المؤشرات الرئيسية:
-
-- إمداد المياه المدعوم بالتحلية،
-- التبريد بالرذاذ فوق الصوتي UMS،
-- استقرار الدبال والكائنات الدقيقة،
-- تعافي نباتات حافة الصحراء،
-- كفاءة الطاقة المحلية والسكن تحت الأرض.
+يركز هذا الشكل على نتائج الصحراء: إمداد المياه بالتحلية، والتبريد بالرذاذ فوق الصوتي، واستقرار الدبال والكائنات الدقيقة، وتعافي نباتات الحافة، والطاقة المحلية، وكفاءة السكن تحت الأرض.
 
 نموذج الأعمال الرئيسي:
 
@@ -84,39 +65,45 @@
 
 ## 5. نموذج استعادة الموارد السياحية
 
+![Tourism Resource Recovery Outcomes](simulations/tourism_resource_recovery_simulation/outputs/tourism_resource_recovery_outcomes.svg)
+
 تقيّم محاكاة السياحة الوجهات ليس فقط كفنادق وطرق وإعلانات، بل كنظام من **البرودة، والماء، والخضرة، والمناظر، والنظم البيئية، والراحة، والدخل المحلي**.
+
+يوضح الشكل أن **Integrated Regenerative Destination** و **Cooling Tourism Recovery** يتفوقان على التطوير السياحي التقليدي عندما تتعزز عوامل التبريد، ودورة المياه، والنظم البيئية، والمناظر، وراحة الزوار، وإعادة الاستثمار.
+
+| السيناريو | قيمة رصيد التبريد السياحي | الراحة | أصل التبريد الطبيعي | النظام البيئي | دخل الزوار | خطر السياحة الزائدة |
+|---|---:|---:|---:|---:|---:|---:|
+| Integrated Regenerative Destination | 57.05 | 59.50 | 56.22 | 57.72 | 61.22 | 5.86 |
+| Cooling Tourism Recovery | 29.81 | 47.43 | 42.96 | 43.73 | 47.34 | 12.35 |
+| Conventional Tourism Development | 0.53 | 15.84 | 3.72 | 4.91 | 24.14 | 65.30 |
+| Degraded Destination | 0.11 | 4.02 | 1.18 | 1.68 | 5.74 | 13.17 |
 
 صفحة المحاكاة:
 
 - [Tourism Resource Recovery Simulation](simulations/tourism_resource_recovery_simulation/README.md)
-
-| المؤشر | المعنى |
-|---|---|
-| Tourism Cooling Credit Value | القيمة المركبة للتبريد، وتعافي النظام البيئي، والدخل المحلي |
-| Destination Comfort Index | راحة الزوار والسكان |
-| Natural Cooling Asset Index | الماء، والخضرة، والتبخر-النتح، وأصول التبريد بالرذاذ |
-| Water / Landscape / Ecosystem Index | جودة المياه، والمناظر، وتعافي النظام البيئي |
-| Visitor Stay and Income Index | مدة إقامة الزوار والدخل المحلي |
-| Overtourism Risk Index | ضغط السياحة الزائدة |
+- [Tourism Final Summary CSV](simulations/tourism_resource_recovery_simulation/outputs/tourism_resource_recovery_final_summary.csv)
 
 ---
 
 ## 6. نموذج تحويل الغابات
 
+![Forest Conversion Business Outcomes](simulations/forest_conversion_business_simulation/outputs/forest_conversion_business_outcomes.svg)
+
 تقيّم محاكاة الغابات التحول من الغابات المهملة أو أحادية النبات إلى غابات فاكهة، وغابات نباتات برية صالحة للأكل، وغابات فطر، وغابات رحيق، وغابات أصلية، وغابات أحواض مائية، وأصول سياحة وتعليم.
+
+يوضح الشكل أن **Integrated Watershed Food Tourism Forest** و **Native-Fruit Mixed Forest** يتفوقان على الإدارة الخشبية فقط وعلى الغابات المهملة عندما تُعامل الغابة كأصل للتبريد، واحتفاظ الماء، والتنوع الحيوي، والغذاء، والسياحة، ودخل المالكين.
+
+| السيناريو | قيمة رصيد التبريد للغابة | الحوض المائي | تبريد السطح | التنوع الحيوي | دخل الغذاء / السياحة | خفض المخاطر |
+|---|---:|---:|---:|---:|---:|---:|
+| Integrated Watershed Food Tourism Forest | 56.60 | 57.07 | 57.23 | 54.91 | 64.57 | 55.91 |
+| Native-Fruit Mixed Forest | 25.68 | 43.39 | 43.72 | 41.50 | 50.52 | 42.38 |
+| Timber-Only Management | 0.49 | 10.48 | 4.69 | 3.25 | 12.87 | 13.32 |
+| Abandoned Monoculture | 0.06 | 1.72 | 1.38 | 1.03 | 1.40 | 1.71 |
 
 صفحة المحاكاة:
 
 - [Forest Conversion Business Simulation](simulations/forest_conversion_business_simulation/README.md)
-
-| المؤشر | المعنى |
-|---|---|
-| Forest Cooling Credit Value | القيمة المركبة للتبريد، واحتفاظ الماء، والتنوع الحيوي، والدخل المحلي |
-| Watershed Retention Index | تعافي الأحواض المائية واحتفاظ الماء |
-| Forest Surface Cooling Index | تبريد سطح الغابة |
-| Biodiversity Recovery Index | تعافي التنوع الحيوي |
-| Food and Tourism Income Index | دخل الفاكهة، والنباتات البرية، والفطر، والسياحة، والتعليم |
-| Wildfire and Erosion Risk Reduction Index | خفض مخاطر الحرائق والتعرية والكوارث |
+- [Forest Final Summary CSV](simulations/forest_conversion_business_simulation/outputs/forest_conversion_final_summary.csv)
 
 ---
 
@@ -139,7 +126,7 @@
 
 ```text
 1. ابدأ بشكل القيمة الإجمالية لأرصدة التبريد
-2. راجع أشكال المحيط والصحراء المتخصصة
+2. راجع أشكال المحيط والصحراء والسياحة والغابات
 3. اختر نموذج الأعمال الذي يهمك
 4. افتح وحدة المحاكاة المقابلة
 5. راجع CSV، والشفرة، والافتراضات، ومؤشرات MRV
