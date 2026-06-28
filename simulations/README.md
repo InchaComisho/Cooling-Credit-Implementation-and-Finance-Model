@@ -2,6 +2,16 @@
 
 These deterministic Python 3 models compare no-action burdens with implementation scenarios. They use transparent illustrative assumptions and common libraries only.
 
+## One-Page Results Overview
+
+Start here for a visual explanation of the simulation results:
+
+- [Simulation Results Overview — English](../SIMULATION_RESULTS_OVERVIEW.md)
+- [シミュレーション結果一覧 — 日本語](../SIMULATION_RESULTS_OVERVIEW_ja.md)
+- [نظرة عامة على نتائج المحاكاة — العربية](../SIMULATION_RESULTS_OVERVIEW_ar.md)
+
+## Simulation Modules
+
 | Simulation | Purpose | Main Outputs |
 |---|---|---|
 | [Urban Cooling Cost-Benefit](urban_cooling_cost_benefit_model/README.md) | Compare no-action vs urban cooling | cumulative cost, avoided cost, payback, ROI |
