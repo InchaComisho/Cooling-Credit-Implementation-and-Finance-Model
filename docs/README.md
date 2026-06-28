@@ -4,7 +4,7 @@
 
 [Root README](../README.md)
 
-These documents expand the Cooling Credit implementation and finance model across implementation, institutional design, MRV, finance flow, public finance, legal and financial cautions, stakeholder payment logic, maintenance circulation, governance, and natural feedback simulation design.
+These documents expand the Cooling Credit implementation and finance model across implementation, institutional design, MRV, finance flow, public finance, legal and financial cautions, stakeholder payment logic, maintenance circulation, governance, natural feedback simulation design, and EEZ ocean cooling.
 
 ## Detailed Documents
 
@@ -20,6 +20,7 @@ These documents expand the Cooling Credit implementation and finance model acros
 | Revenue and maintenance flow | [EN](REVENUE_AND_MAINTENANCE_FLOW.md) | [JA](REVENUE_AND_MAINTENANCE_FLOW_ja.md) | [AR](REVENUE_AND_MAINTENANCE_FLOW_ar.md) |
 | Governance and anti-greenwashing | [EN](GOVERNANCE_AND_ANTI_GREENWASHING.md) | [JA](GOVERNANCE_AND_ANTI_GREENWASHING_ja.md) | [AR](GOVERNANCE_AND_ANTI_GREENWASHING_ar.md) |
 | Natural feedback cooling simulation | [EN](COOLING_CREDIT_NATURAL_FEEDBACK_SIMULATION.md) | [JA](COOLING_CREDIT_NATURAL_FEEDBACK_SIMULATION_ja.md) | [AR](COOLING_CREDIT_NATURAL_FEEDBACK_SIMULATION_ar.md) |
+| EEZ ocean cooling and fishery regeneration | [EN](EEZ_OCEAN_COOLING_FISHERY_REGENERATION_MODEL.md) | [JA](EEZ_OCEAN_COOLING_FISHERY_REGENERATION_MODEL_ja.md) | [AR](EEZ_OCEAN_COOLING_FISHERY_REGENERATION_MODEL_ar.md) |
 
 ## Implementation Roadmap and Simulation Package
 
