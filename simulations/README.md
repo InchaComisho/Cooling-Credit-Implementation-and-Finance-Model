@@ -8,6 +8,7 @@ These deterministic Python 3 models compare no-action burdens with implementatio
 | [Disaster Risk Avoidance](disaster_risk_avoidance_model/README.md) | Compare runoff and flood burden | runoff reduction, flood loss reduction |
 | [Soil Recovery Agriculture](soil_recovery_agriculture_model/README.md) | Compare degraded vs restored soil | moisture, yield, water cost, farm income |
 | [Cooling Credit Finance](cooling_credit_finance_model/README.md) | SPV / fund cash flow | NPV, ROI, payback, credit revenue |
+| [Natural Feedback Cooling](natural_feedback_cooling_simulation/README.md) | Compare accounting offset, urban mist cooling, organic-waste-to-humus, forest regeneration, and integrated natural feedback | cooling credit value, physical cooling, water retention, evapotranspiration, disaster pressure, local co-benefits |
 
 ## Use
 
