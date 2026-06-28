@@ -30,8 +30,6 @@ The strongest overall result appears when urban cooling, soil recovery, forest r
 
 This figure compares total Cooling Credit value across urban, soil, forest, ocean, desert-edge, and integrated scenarios.
 
-How to read it:
-
 - **Integrated Natural Feedback** is highest because multiple feedbacks reinforce one another.
 - **Coastal Desert Edge Regeneration** is strong in desert-specific indicators but does not restore all planetary cooling functions alone.
 - **EEZ Ocean Cooling** is strong in marine indicators but does not restore soil, forest, and urban systems alone.
@@ -43,20 +41,11 @@ How to read it:
 
 ![Ocean Cooling and Marine Co-benefit Outcomes](simulations/natural_feedback_cooling_simulation/outputs/ocean_cooling_fishery_outcomes.svg)
 
-This figure focuses on ocean-specific outcomes.
-
-Key indicators:
-
-- ocean surface cooling,
-- dissolved oxygen recovery,
-- marine food-web recovery,
-- fishery and tourism co-benefits.
+This figure focuses on ocean-specific outcomes: ocean surface cooling, dissolved oxygen recovery, marine food-web recovery, and fishery / tourism co-benefits.
 
 Main business model:
 
 - **EEZ Fishery Recovery Cooling Credit Business Model**
-
-OBS / OTU / UMS-style systems are evaluated through ocean heat, oxygen, vertical circulation, plankton foundation, fisheries, and tourism value.
 
 ---
 
@@ -64,15 +53,7 @@ OBS / OTU / UMS-style systems are evaluated through ocean heat, oxygen, vertical
 
 ![Desert Edge Regeneration Outcomes](simulations/natural_feedback_cooling_simulation/outputs/desert_edge_regeneration_outcomes.svg)
 
-This figure focuses on desert-specific outcomes.
-
-Key indicators:
-
-- desalination-supported water supply,
-- UMS / ultrasonic mist cooling,
-- humus and microbial settlement,
-- desert-edge vegetation recovery,
-- local energy and underground settlement efficiency.
+This figure focuses on desert-specific outcomes: desalination-supported water supply, UMS mist cooling, humus / microbial settlement, desert-edge vegetation recovery, local energy, and underground settlement efficiency.
 
 Main business model:
 
@@ -84,39 +65,45 @@ The core idea is not to force regeneration from the desert center. The model beg
 
 ## 5. Tourism Resource Recovery Model
 
+![Tourism Resource Recovery Outcomes](simulations/tourism_resource_recovery_simulation/outputs/tourism_resource_recovery_outcomes.svg)
+
 The tourism simulation evaluates destinations not merely as hotels, roads, and advertising, but as systems of **coolness, water, greenery, scenery, ecosystems, comfort, and local income**.
+
+The figure shows that **Integrated Regenerative Destination** and **Cooling Tourism Recovery** outperform conventional tourism development when cooling, water-cycle recovery, ecosystems, landscape value, visitor comfort, and reinvestment reinforce one another.
+
+| Scenario | Tourism Cooling Credit Value | Comfort | Natural Cooling Asset | Ecosystem | Visitor Income | Overtourism Risk |
+|---|---:|---:|---:|---:|---:|---:|
+| Integrated Regenerative Destination | 57.05 | 59.50 | 56.22 | 57.72 | 61.22 | 5.86 |
+| Cooling Tourism Recovery | 29.81 | 47.43 | 42.96 | 43.73 | 47.34 | 12.35 |
+| Conventional Tourism Development | 0.53 | 15.84 | 3.72 | 4.91 | 24.14 | 65.30 |
+| Degraded Destination | 0.11 | 4.02 | 1.18 | 1.68 | 5.74 | 13.17 |
 
 Simulation page:
 
 - [Tourism Resource Recovery Simulation](simulations/tourism_resource_recovery_simulation/README.md)
-
-| Indicator | Meaning |
-|---|---|
-| Tourism Cooling Credit Value | Composite value of cooling, ecosystem recovery, and local income |
-| Destination Comfort Index | Comfort for visitors and residents |
-| Natural Cooling Asset Index | Water, greenery, evapotranspiration, and mist cooling assets |
-| Water / Landscape / Ecosystem Index | Water quality, landscape, and ecosystem recovery |
-| Visitor Stay and Income Index | Visitor stay time and local income |
-| Overtourism Risk Index | Excess tourism pressure |
+- [Tourism Final Summary CSV](simulations/tourism_resource_recovery_simulation/outputs/tourism_resource_recovery_final_summary.csv)
 
 ---
 
 ## 6. Forest Conversion Business Model
 
+![Forest Conversion Business Outcomes](simulations/forest_conversion_business_simulation/outputs/forest_conversion_business_outcomes.svg)
+
 The forest simulation evaluates conversion from abandoned or monoculture plantations into fruit forests, wild edible forests, mushroom forests, nectar forests, native forests, watershed forests, and tourism / education assets.
+
+The figure shows that **Integrated Watershed Food Tourism Forest** and **Native-Fruit Mixed Forest** outperform timber-only management and abandoned monoculture when forests are treated as cooling, water-retention, biodiversity, food, tourism, and owner-income assets.
+
+| Scenario | Forest Cooling Credit Value | Watershed | Surface Cooling | Biodiversity | Food / Tourism Income | Risk Reduction |
+|---|---:|---:|---:|---:|---:|---:|
+| Integrated Watershed Food Tourism Forest | 56.60 | 57.07 | 57.23 | 54.91 | 64.57 | 55.91 |
+| Native-Fruit Mixed Forest | 25.68 | 43.39 | 43.72 | 41.50 | 50.52 | 42.38 |
+| Timber-Only Management | 0.49 | 10.48 | 4.69 | 3.25 | 12.87 | 13.32 |
+| Abandoned Monoculture | 0.06 | 1.72 | 1.38 | 1.03 | 1.40 | 1.71 |
 
 Simulation page:
 
 - [Forest Conversion Business Simulation](simulations/forest_conversion_business_simulation/README.md)
-
-| Indicator | Meaning |
-|---|---|
-| Forest Cooling Credit Value | Composite value of cooling, water retention, biodiversity, and local income |
-| Watershed Retention Index | Watershed and water-retention recovery |
-| Forest Surface Cooling Index | Forest surface cooling |
-| Biodiversity Recovery Index | Biodiversity recovery |
-| Food and Tourism Income Index | Fruit, wild edible plants, mushrooms, tourism, and education income |
-| Wildfire and Erosion Risk Reduction Index | Wildfire, erosion, and disaster-pressure reduction |
+- [Forest Final Summary CSV](simulations/forest_conversion_business_simulation/outputs/forest_conversion_final_summary.csv)
 
 ---
 
@@ -139,7 +126,7 @@ Simulation page:
 
 ```text
 1. Start with the overall Cooling Credit value figure
-2. Check ocean and desert specialty figures
+2. Check ocean, desert, tourism, and forest specialty figures
 3. Select the business model you care about
 4. Open the corresponding simulation module
 5. Review CSV, code, assumptions, and MRV indicators
