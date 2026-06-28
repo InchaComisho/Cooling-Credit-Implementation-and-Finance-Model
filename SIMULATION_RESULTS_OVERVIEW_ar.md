@@ -80,7 +80,7 @@
 
 صفحة المحاكاة:
 
-- [Tourism Resource Recovery Simulation](simulations/tourism_resource_recovery_simulation/README.md)
+- [Tourism Resource Recovery Simulation](simulations/tourism_resource_recovery_simulation/README_ar.md)
 - [Tourism Final Summary CSV](simulations/tourism_resource_recovery_simulation/outputs/tourism_resource_recovery_final_summary.csv)
 
 ---
@@ -102,7 +102,7 @@
 
 صفحة المحاكاة:
 
-- [Forest Conversion Business Simulation](simulations/forest_conversion_business_simulation/README.md)
+- [Forest Conversion Business Simulation](simulations/forest_conversion_business_simulation/README_ar.md)
 - [Forest Final Summary CSV](simulations/forest_conversion_business_simulation/outputs/forest_conversion_final_summary.csv)
 
 ---
