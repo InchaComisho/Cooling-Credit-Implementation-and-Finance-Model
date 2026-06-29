@@ -29,3 +29,22 @@
 - [سيناريو الرذاذ فوق الصوتي في الأراضي الجافة](global_stabilization_scenario/DRYLAND_ULTRASONIC_MIST_COOLING_SCENARIO_ar.md)
 - [الآثار المحلية والعالمية](global_stabilization_scenario/LOCAL_VS_GLOBAL_EFFECTS_ar.md)
 - [منطق تحولات طور الماء والتبريد](global_stabilization_scenario/WATER_PHASE_TRANSITION_COOLING_LOGIC_ar.md)
+
+---
+
+## المؤلف
+
+Master / inchacomusho / InchaComisho
+
+مصمم مفاهيمي ياباني مستقل، ومراقب، ومقترح، وموائم للذكاء الاصطناعي، ومُعرّف لمفهوم الحكمة الاصطناعية.  
+مؤسس ومناصر للإطار الأكاديمي لعلم التكامل الطبيعي.  
+ينشط علنًا في فلسفة القانون الطبيعي، واستعادة الدورة الكوكبية، والتشارك الإبداعي مع الذكاء الاصطناعي.
+
+---
+
+## الترخيص
+
+CC BY 4.0
+
+تُنشر هذه المقالة بموجب رخصة Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+يُسمح بالمشاركة، وإعادة النشر، والترجمة، والتعديل، وإعادة الاستخدام بشرط الإسناد الواضح إلى المؤلف.
