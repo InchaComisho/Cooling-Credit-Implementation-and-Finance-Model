@@ -4,7 +4,7 @@
 
 [Root README](../README.md)
 
-These documents expand the Cooling Credit implementation and finance model across implementation, institutional design, MRV, finance flow, public finance, and legal and financial cautions.
+These documents expand the Cooling Credit implementation and finance model across implementation, institutional design, MRV, finance flow, public finance, legal and financial cautions, stakeholder payment logic, maintenance circulation, governance, natural feedback simulation design, and EEZ ocean cooling.
 
 ## Detailed Documents
 
@@ -16,11 +16,17 @@ These documents expand the Cooling Credit implementation and finance model acros
 | Finance flow model | [EN](FINANCE_FLOW_MODEL.md) | [JA](FINANCE_FLOW_MODEL_ja.md) | [AR](FINANCE_FLOW_MODEL_ar.md) |
 | Public and disaster-prevention finance | [EN](PUBLIC_FINANCE_MODEL.md) | [JA](PUBLIC_FINANCE_MODEL_ja.md) | [AR](PUBLIC_FINANCE_MODEL_ar.md) |
 | Legal and financial notes | [EN](LEGAL_AND_FINANCIAL_NOTES.md) | [JA](LEGAL_AND_FINANCIAL_NOTES_ja.md) | [AR](LEGAL_AND_FINANCIAL_NOTES_ar.md) |
+| Stakeholder payment model | [EN](STAKEHOLDER_PAYMENT_MODEL.md) | [JA](STAKEHOLDER_PAYMENT_MODEL_ja.md) | [AR](STAKEHOLDER_PAYMENT_MODEL_ar.md) |
+| Revenue and maintenance flow | [EN](REVENUE_AND_MAINTENANCE_FLOW.md) | [JA](REVENUE_AND_MAINTENANCE_FLOW_ja.md) | [AR](REVENUE_AND_MAINTENANCE_FLOW_ar.md) |
+| Governance and anti-greenwashing | [EN](GOVERNANCE_AND_ANTI_GREENWASHING.md) | [JA](GOVERNANCE_AND_ANTI_GREENWASHING_ja.md) | [AR](GOVERNANCE_AND_ANTI_GREENWASHING_ar.md) |
+| Natural feedback cooling simulation | [EN](COOLING_CREDIT_NATURAL_FEEDBACK_SIMULATION.md) | [JA](COOLING_CREDIT_NATURAL_FEEDBACK_SIMULATION_ja.md) | [AR](COOLING_CREDIT_NATURAL_FEEDBACK_SIMULATION_ar.md) |
+| EEZ ocean cooling and fishery regeneration | [EN](EEZ_OCEAN_COOLING_FISHERY_REGENERATION_MODEL.md) | [JA](EEZ_OCEAN_COOLING_FISHERY_REGENERATION_MODEL_ja.md) | [AR](EEZ_OCEAN_COOLING_FISHERY_REGENERATION_MODEL_ar.md) |
 
 ## Implementation Roadmap and Simulation Package
 
 - [Implementation Package Index](implementation_package/README.md)
 - [Simulation Package](../simulations/README.md)
+- [Natural Feedback Cooling Simulation](../simulations/natural_feedback_cooling_simulation/README.md)
 
 ## Global Stabilization Scenario
 

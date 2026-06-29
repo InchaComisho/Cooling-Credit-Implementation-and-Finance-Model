@@ -1,65 +1,67 @@
-# 都市冷却費用便益シミュレーション
+# 都市冷却コスト便益シミュレーション
 
-## 目的・意義
+[English](README.md) | [日本語](README_ja.md) | [العربية](README_ar.md)
 
-医療、冷房電力、暑熱災害費用について、20年間の無対策と冷却実装・費用・クレジット収入を比較する。 初期費用と時間差のある回避損失を同一評価に置く。
+## 目的
 
-## 前提・指標
+無策時の医療費・冷房エネルギー費・熱災害コストを、20年間の冷却介入・費用・クレジット収益と比較する。初期費用と遅延して発生する回避損失を、一貫した評価軸で見える化する。
 
-既定値：期間、割引・損失成長、3費用、CAPEX/OPEX/MRV、低減率、WBGT・表面温度、価格・数量・成長。
+## 前提と指標
 
-CSVは年次の物理、費用、収入、割引、累積指標を記録する。金額は例示通貨単位である。
+デフォルト値：評価年数・割引率・損害成長率、3つの初期損失カテゴリ、CAPEX/OPEX/MRV、削減率、WBGT・表面温度変化、クレジット単価・発行量・成長率。
 
-## 実行
+CSVは毎年の物理指標・コスト・収益・割引価値・累積指標を出力する。金額はイラストレーション通貨単位で示す。
+
+## 実行方法
 
 ```bash
 pip install -r requirements.txt
 python urban_cooling_cost_benefit_sim.py
 ```
 
-`outputs/`は自動作成され、乱数を使わない。
+スクリプトは `outputs/` を自動生成し、決定論的に動作する。
 
-## 出力と読み方
+## 出力ファイルと解釈
 
 `urban_cooling_cost_benefit_results.csv`、`cumulative_cost_comparison.png`、`annual_avoided_costs.png`、`net_benefit_and_payback.png`、`cooling_indicators.png`、`roi_sensitivity.png`。
 
-まず年次内訳、次に累積図を読む。回収年は累積純CFが初めて非負となる年、NPVは所定割引率、ROIは無割引総純便益÷初期CAPEXである。感度図は他条件を固定した一変数試験で、確率分布ではない。
+累積グラフの前に年別グラフを読むこと。回収期間は累積正味キャッシュフローが初めてプラスになる年。NPVは設定割引率を適用し、ROIは初期CAPEXに対する総未割引正味便益で算出する。感度グラフは1つの仮定を変化させる（確率分布ではない）。
 
 ## 限界
 
-これは予測モデルではなく、意思決定支援のための概念シミュレーションである。政策判断・投資判断に使う場合は、地域の実測データで前提値を置き換える必要がある。相互作用、分配、税・資金構造、不確実性、立退き、極端尾部を網羅しない。便益の二重計上を避け、工学・保険数理・金融・法務レビューを行う。
+これは概念的な意思決定支援モデルであり、予測ではない。すべての仮定は透明性があり、政策・投資判断前に地域の実測データに置き換えること。配分効果・税・ファイナンス構造・不確実性・極端なテールリスクはモデル化していない。便益カテゴリ間の二重計上を避け、工学・保険数理・財務・法務の専門的レビューを受けること。
 
-## 基本ケース結果
+## ベースケース結果
 
 | 指標 | 結果 |
 |---|---:|
 | 評価期間 | 20年 |
-| 投資回収年 | 11年目 |
-| 主な便益 | 医療費削減、冷房電力削減、熱害損失削減、クレジット収益 |
-| 主な制約 | 初期投資、維持管理費、MRV費用 |
-| 解釈 | 中期以降に回避損失が蓄積する自治体向けモデル |
+| 回収期間 | 11年目 |
+| 主な便益 | 医療費・冷房エネルギー・熱損失の回避、クレジット収益 |
+| 主な制約 | CAPEX・OPEX・MRV |
+| 解釈 | 回避損失が中期的に蓄積する自治体モデル |
 
-累積図は、初期投資により短期の実装負担が大きい一方、回避医療費、冷房電力費、熱害損失が蓄積し、基本ケースでは11年目前後に回収へ至ることを示す。
+累積グラフはCAPEXにより序盤に大きな負担が生じ、医療費・電力費・熱損害コスト回避が時間とともに積み上がることを示す。ベースケースでは11年目頃に回収に達する。
 
 ## 出力グラフ
 
-### Cumulative Cost Comparison
+### 累積コスト比較
 
 ![Cumulative Cost Comparison](outputs/cumulative_cost_comparison.png)
 
-### Annual Avoided Costs
+### 年別回避コスト
 
 ![Annual Avoided Costs](outputs/annual_avoided_costs.png)
 
-### Net Benefit and Payback
+### 正味便益と回収期間
 
 ![Net Benefit and Payback](outputs/net_benefit_and_payback.png)
 
-### Cooling Indicators
+### 冷却指標
 
 ![Cooling Indicators](outputs/cooling_indicators.png)
 
-### ROI Sensitivity
+### ROI感度分析
 
 ![ROI Sensitivity](outputs/roi_sensitivity.png)
 
@@ -67,48 +69,39 @@ python urban_cooling_cost_benefit_sim.py
 
 ![Scenario Payback Comparison](outputs/scenario_payback_comparison.png)
 
-この図は保守、基本、高リスク将来ケースの投資回収を比較する。重要性は基本ケースだけでなく、熱害・災害・医療費・電力費が上振れした場合の回避損失との比較で明確になる。各ケースは確率予測ではない。
-
-基礎数値は[`outputs/scenario_comparison.csv`](outputs/scenario_comparison.csv)に記録している。
+このグラフは保守・ベース・高リスクの3つの将来ケースを比較する。基礎データは [`outputs/scenario_comparison.csv`](outputs/scenario_comparison.csv) で確認できる。
 
 ## 弱い結果の読み方
 
-See [弱い結果の読み方](../HOW_TO_READ_WEAK_RESULTS_ja.md) for guidance on public support, missing benefit categories, MRV, and appraisal horizons.
+[How to Read Weak Results](../HOW_TO_READ_WEAK_RESULTS.md) を参照のこと。
 
 ---
 
-## 著者
+## Author / 著者
 
-マスター / inchacomusho / InchaComisho
+Master / inchacomusho / InchaComisho
 
-日本の独立構想者、観測者、提案者、AI調律者、人工叡智の定義者。  
-自然補完科学の学問体系の構築・提唱者。  
-自然法則思想、地球循環再生、AIとの共創を中心に公開活動を行う。
+独立した日本人コンセプトデザイナー・観察者・提案者・AIチューナー・人工叡智の定義者。
 
 ---
 
-## 協力AIと共創チーム
-
-この知識体系は、マスターと複数のAIパートナーとの対話と共創によって発展してきた。
+## Collaborative AI and Co-Creation Team / 協働AIチーム
 
 - G（ChatGPT）
-- ミニ（Gemini）
-- クルス（Claude）
-- リアル（Perplexity）
-- ローラ（Lola/Dola）
-- マナ（Manus）
+- Mini（Gemini）
+- Cruz（Claude）
+- Real（Perplexity）
+- Lola（Dola）
+- Mana（Manus）
 
 ---
 
-## 公開月
+## Published / 公開月
 
 2026年6月
 
 ---
 
-## ライセンス
+## License / ライセンス
 
 CC BY 4.0
-
-本リポジトリの内容は、クリエイティブ・コモンズ 表示 4.0 国際ライセンスに基づき公開する。  
-引用・転載・改変・翻訳・再配布は可能であるが、原案者である **マスター / inchacomusho / InchaComisho** の明記を求める。
