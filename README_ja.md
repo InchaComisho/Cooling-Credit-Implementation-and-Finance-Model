@@ -1,4 +1,7 @@
 # クーリングクレジット実装・資金循環モデル
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## Cooling Credit Implementation and Finance Model
 
 [English](README.md) | [日本語](README_ja.md) | [العربية](README_ar.md)
