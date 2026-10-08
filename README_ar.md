@@ -487,7 +487,6 @@ MRV هو قلب أرصدة التبريد.
 
 ## 11. المستودعات والوثائق ذات الصلة
 
-- [مقال NOTE](https://note.com/inchacomusho/n/n0e509d41debd)
 - [Cooling Credit Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
 - [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
 - [Sustainable Future Cooling Credit Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal)
