@@ -2,9 +2,9 @@
 
 [English Version](BUSINESS_MODEL_SIMULATION_MAP.md)
 
-[シミュレーション結果の概要](SIMULATION_RESULTS_OVERVIEW_ja.md) | [シミュレーション・パッケージ](simulations/README.md) | [クーリングクレジット・フレームワークのビジネスモデル](https://github.com/InchaComisho/Cooling-Credit-Framework/tree/main/docs/business_models)
+[シミュレーション結果の概要](SIMULATION_RESULTS_OVERVIEW_ja.md) | [シミュレーション・パッケージ](simulations/README_ja.md) | [クーリングクレジット・フレームワークのビジネスモデル](https://github.com/InchaComisho/Cooling-Credit-Framework/tree/main/docs/business_models)
 
-言語：[English](SIMULATION_RESULTS_OVERVIEW_ja.md) | [日本語](SIMULATION_RESULTS_OVERVIEW_ja.md) | [العربية](SIMULATION_RESULTS_OVERVIEW_ar.md)
+言語：[English](SIMULATION_RESULTS_OVERVIEW.md) | [日本語](SIMULATION_RESULTS_OVERVIEW_ja.md) | [العربية](SIMULATION_RESULTS_OVERVIEW_ar.md)
 
 このファイルは、`Cooling-Credit-Framework/docs/business_models`にあるクーリングクレジットのビジネスモデルを、このリポジトリの対応するシミュレーション・モジュールに対応づけます。
 
@@ -32,14 +32,14 @@ MRV指標と成果ベースの評価
 
 | ビジネスモデル | ビジネスモデルの文書 | シミュレーションの対応範囲 |
 |---|---|---|
-| EEZ漁業回復クーリングクレジット・ビジネスモデル | [フレームワークの文書](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/EEZ_FISHERY_RECOVERY_COOLING_CREDIT_MODEL.md) | [自然フィードバック冷却シミュレーション](simulations/natural_feedback_cooling_simulation/README.md)、特にEEZ海洋冷却の指標 |
-| 観光資源回復クーリングクレジット・モデル | [フレームワークの文書](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/TOURISM_RESOURCE_RECOVERY_COOLING_CREDIT_MODEL.md) | [観光資源回復シミュレーション](simulations/tourism_resource_recovery_simulation/README.md) |
-| 砂漠の循環型ピラミッド都市ビジネスモデル | [フレームワークの文書](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/DESERT_CIRCULAR_PYRAMID_CITY_BUSINESS_MODEL.md) | [自然フィードバック冷却シミュレーション](simulations/natural_feedback_cooling_simulation/README.md)、特に沿岸砂漠縁辺の再生の指標 |
-| 都市のグリーンインフラ・クーリングクレジット・モデル | [フレームワークの文書](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/URBAN_GREEN_INFRASTRUCTURE_COOLING_CREDIT_MODEL.md) | [都市冷却の費用対効果](simulations/urban_cooling_cost_benefit_model/README.md)および[自然フィードバック冷却](simulations/natural_feedback_cooling_simulation/README.md) |
-| 単一樹種の山林から在来果樹の混交林への転換ビジネスモデル | [フレームワークの文書](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/MONOCULTURE_MOUNTAIN_FOREST_TO_NATIVE_FRUIT_FOREST_BUSINESS_MODEL.md) | [森林転換ビジネス・シミュレーション](simulations/forest_conversion_business_simulation/README.md) |
-| 中央ミスト超音波冷却ファン・クーリングクレジット・ビジネスモデル | [フレームワークの文書](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/CENTER_MIST_ULTRASONIC_COOLING_FAN_BUSINESS_MODEL.md) | [都市冷却の費用対効果](simulations/urban_cooling_cost_benefit_model/README.md)および[自然フィードバック冷却](simulations/natural_feedback_cooling_simulation/README.md) |
-| 食品ロスと有機廃棄物の腐植化クーリングクレジット・モデル | [フレームワークの文書](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/FOOD_LOSS_ORGANIC_WASTE_TO_HUMUS_COOLING_CREDIT_MODEL.md) | [土壌回復型農業](simulations/soil_recovery_agriculture_model/README.md)および[自然フィードバック冷却](simulations/natural_feedback_cooling_simulation/README.md) |
-| 土壌回復と砂漠緑化のための有機物循環クーリングクレジット・モデル | [フレームワークの文書](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/ORGANIC_MATTER_SOIL_RECOVERY_AND_DESERT_GREENING_COOLING_CREDIT_MODEL.md) | [土壌回復型農業](simulations/soil_recovery_agriculture_model/README.md)および[自然フィードバック冷却](simulations/natural_feedback_cooling_simulation/README.md) |
+| EEZ漁業回復クーリングクレジット・ビジネスモデル | [フレームワークの文書](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/EEZ_FISHERY_RECOVERY_COOLING_CREDIT_MODEL.md) | [自然フィードバック冷却シミュレーション](simulations/natural_feedback_cooling_simulation/README_ja.md)、特にEEZ海洋冷却の指標 |
+| 観光資源回復クーリングクレジット・モデル | [フレームワークの文書](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/TOURISM_RESOURCE_RECOVERY_COOLING_CREDIT_MODEL.md) | [観光資源回復シミュレーション](simulations/tourism_resource_recovery_simulation/README_ja.md) |
+| 砂漠の循環型ピラミッド都市ビジネスモデル | [フレームワークの文書](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/DESERT_CIRCULAR_PYRAMID_CITY_BUSINESS_MODEL.md) | [自然フィードバック冷却シミュレーション](simulations/natural_feedback_cooling_simulation/README_ja.md)、特に沿岸砂漠縁辺の再生の指標 |
+| 都市のグリーンインフラ・クーリングクレジット・モデル | [フレームワークの文書](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/URBAN_GREEN_INFRASTRUCTURE_COOLING_CREDIT_MODEL.md) | [都市冷却の費用対効果](simulations/urban_cooling_cost_benefit_model/README_ja.md)および[自然フィードバック冷却](simulations/natural_feedback_cooling_simulation/README_ja.md) |
+| 単一樹種の山林から在来果樹の混交林への転換ビジネスモデル | [フレームワークの文書](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/MONOCULTURE_MOUNTAIN_FOREST_TO_NATIVE_FRUIT_FOREST_BUSINESS_MODEL.md) | [森林転換ビジネス・シミュレーション](simulations/forest_conversion_business_simulation/README_ja.md) |
+| 中央ミスト超音波冷却ファン・クーリングクレジット・ビジネスモデル | [フレームワークの文書](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/CENTER_MIST_ULTRASONIC_COOLING_FAN_BUSINESS_MODEL.md) | [都市冷却の費用対効果](simulations/urban_cooling_cost_benefit_model/README_ja.md)および[自然フィードバック冷却](simulations/natural_feedback_cooling_simulation/README_ja.md) |
+| 食品ロスと有機廃棄物の腐植化クーリングクレジット・モデル | [フレームワークの文書](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/FOOD_LOSS_ORGANIC_WASTE_TO_HUMUS_COOLING_CREDIT_MODEL.md) | [土壌回復型農業](simulations/soil_recovery_agriculture_model/README_ja.md)および[自然フィードバック冷却](simulations/natural_feedback_cooling_simulation/README_ja.md) |
+| 土壌回復と砂漠緑化のための有機物循環クーリングクレジット・モデル | [フレームワークの文書](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/ORGANIC_MATTER_SOIL_RECOVERY_AND_DESERT_GREENING_COOLING_CREDIT_MODEL.md) | [土壌回復型農業](simulations/soil_recovery_agriculture_model/README_ja.md)および[自然フィードバック冷却](simulations/natural_feedback_cooling_simulation/README_ja.md) |
 
 ---
 
@@ -63,13 +63,13 @@ MRV指標と成果ベースの評価
 ## 主なシミュレーション・パッケージ
 
 - [シミュレーション結果の概要](SIMULATION_RESULTS_OVERVIEW_ja.md)
-- [シミュレーション・パッケージの索引](simulations/README.md)
-- [自然フィードバック冷却シミュレーション](simulations/natural_feedback_cooling_simulation/README.md)
-- [観光資源回復シミュレーション](simulations/tourism_resource_recovery_simulation/README.md)
-- [森林転換ビジネス・シミュレーション](simulations/forest_conversion_business_simulation/README.md)
-- [都市冷却の費用対効果](simulations/urban_cooling_cost_benefit_model/README.md)
-- [土壌回復型農業](simulations/soil_recovery_agriculture_model/README.md)
-- [クーリングクレジットの金融](simulations/cooling_credit_finance_model/README.md)
+- [シミュレーション・パッケージの索引](simulations/README_ja.md)
+- [自然フィードバック冷却シミュレーション](simulations/natural_feedback_cooling_simulation/README_ja.md)
+- [観光資源回復シミュレーション](simulations/tourism_resource_recovery_simulation/README_ja.md)
+- [森林転換ビジネス・シミュレーション](simulations/forest_conversion_business_simulation/README_ja.md)
+- [都市冷却の費用対効果](simulations/urban_cooling_cost_benefit_model/README_ja.md)
+- [土壌回復型農業](simulations/soil_recovery_agriculture_model/README_ja.md)
+- [クーリングクレジットの金融](simulations/cooling_credit_finance_model/README_ja.md)
 
 ---
 

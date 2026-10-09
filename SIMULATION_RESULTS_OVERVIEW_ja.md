@@ -1,6 +1,6 @@
 # クーリングクレジット・シミュレーション結果一覧
 
-[English](SIMULATION_RESULTS_OVERVIEW_ja.md) | [日本語](SIMULATION_RESULTS_OVERVIEW_ja.md) | [العربية](SIMULATION_RESULTS_OVERVIEW_ar.md)
+[English](SIMULATION_RESULTS_OVERVIEW.md) | [日本語](SIMULATION_RESULTS_OVERVIEW_ja.md) | [العربية](SIMULATION_RESULTS_OVERVIEW_ar.md)
 
 このページは、`Cooling-Credit-Implementation-and-Finance-Model` に含まれる主要シミュレーション結果を、事業モデルと対応づけて1枚で読めるように整理した概要ページである。
 
@@ -137,7 +137,7 @@
 ## 関連ページ
 
 - [Business Model Simulation Map](BUSINESS_MODEL_SIMULATION_MAP_ja.md)
-- [Simulation Package](simulations/README.md)
+- [Simulation Package](simulations/README_ja.md)
 - [Natural Feedback Cooling Simulation Results](simulations/natural_feedback_cooling_simulation/RESULTS_ja.md)
 - [Cooling Credit Framework Business Models](https://github.com/InchaComisho/Cooling-Credit-Framework/tree/main/docs/business_models)
 

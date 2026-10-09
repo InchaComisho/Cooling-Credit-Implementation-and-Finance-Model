@@ -30,7 +30,7 @@ python global_cooling_hydrological_stabilization_sim.py
 ## 図表の読み方について
 
 本シミュレーションのグラフ画像と図表ラベルは英語版のみで作成している。  
-図表を確認する場合は、[English README](README_ja.md) または `outputs/` ディレクトリを参照する。
+図表を確認する場合は、[English README](README.md) または `outputs/` ディレクトリを参照する。
 
 これらのグラフは、実際の災害発生数や被害額を予測するものではない。  
 局所実装、国家規模実装、大陸乾燥地ネットワーク、全球協調実装の違いを、概念的なリスク圧力指数として比較するためのものである。

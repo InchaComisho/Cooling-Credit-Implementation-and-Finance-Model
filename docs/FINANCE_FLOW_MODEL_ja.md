@@ -1,7 +1,7 @@
 # 資金循環モデル
 ## Cooling Credit Finance Flow Model
 
-[English](FINANCE_FLOW_MODEL_ja.md) | [日本語](FINANCE_FLOW_MODEL_ja.md) | [العربية](FINANCE_FLOW_MODEL_ar.md)
+[English](FINANCE_FLOW_MODEL.md) | [日本語](FINANCE_FLOW_MODEL_ja.md) | [العربية](FINANCE_FLOW_MODEL_ar.md)
 
 [詳細文書索引](README_ja.md) | [ルートREADME](../README_ja.md)
 

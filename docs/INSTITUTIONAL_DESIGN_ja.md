@@ -1,7 +1,7 @@
 # 制度設計
 ## Cooling Credit Institutional Design
 
-[English](INSTITUTIONAL_DESIGN_ja.md) | [日本語](INSTITUTIONAL_DESIGN_ja.md) | [العربية](INSTITUTIONAL_DESIGN_ar.md)
+[English](INSTITUTIONAL_DESIGN.md) | [日本語](INSTITUTIONAL_DESIGN_ja.md) | [العربية](INSTITUTIONAL_DESIGN_ar.md)
 
 [詳細文書索引](README_ja.md) | [ルートREADME](../README_ja.md)
 

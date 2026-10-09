@@ -1,6 +1,6 @@
 # 土壌回復農業シミュレーション
 
-[English](README_ja.md) | [日本語](README_ja.md) | [العربية](README_ar.md)
+[English](README.md) | [日本語](README_ja.md) | [العربية](README_ar.md)
 
 ## 目的
 
@@ -73,7 +73,7 @@ python soil_recovery_agriculture_sim.py
 
 ## 弱い結果の読み方
 
-[How to Read Weak Results](../HOW_TO_READ_WEAK_RESULTS.md) を参照のこと。
+[How to Read Weak Results](../HOW_TO_READ_WEAK_RESULTS_ja.md) を参照のこと。
 
 ---
 

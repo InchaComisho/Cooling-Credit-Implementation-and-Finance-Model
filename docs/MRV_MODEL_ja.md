@@ -1,7 +1,7 @@
 # MRVモデル
 ## Measurement, Reporting, and Verification for Cooling Credits
 
-[English](MRV_MODEL_ja.md) | [日本語](MRV_MODEL_ja.md) | [العربية](MRV_MODEL_ar.md)
+[English](MRV_MODEL.md) | [日本語](MRV_MODEL_ja.md) | [العربية](MRV_MODEL_ar.md)
 
 [詳細文書索引](README_ja.md) | [ルートREADME](../README_ja.md)
 
