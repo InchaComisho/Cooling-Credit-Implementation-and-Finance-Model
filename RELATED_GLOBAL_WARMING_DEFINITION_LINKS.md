@@ -1,5 +1,7 @@
 # Related Global Warming Definition Links
 
+[日本語版はこちら / Japanese version](RELATED_GLOBAL_WARMING_DEFINITION_LINKS_ja.md)
+
 ## Central Definition
 
 - Master Definition of Global Warming Causality and Complete Solution  

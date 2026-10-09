@@ -1,5 +1,7 @@
 # Related Links: Cooling Credit Local Pilot Model
 
+[日本語版はこちら / Japanese version](RELATED_COOLING_CREDIT_LOCAL_PILOT_LINKS_ja.md)
+
 ## 地域実証・小規模導入モデルとの接続
 
 This repository is connected to the **Cooling Credit Local Pilot Model**, which provides a practical entry point for starting Cooling Credit through small-scale local pilots such as schools, shopping streets, parks, farms, shelters, bus stops, public facilities, and outdoor AC waste-heat mitigation sites.
