@@ -1,5 +1,7 @@
 # Urban Cooling Pilot Project Design
 
+[日本語版はこちら / Japanese version](PILOT_PROJECT_DESIGN_ja.md)
+
 ## Recommended first pilot
 
 Select a school, hospital, elderly-care facility, or station plaza with high exposure, public ownership or clear consent, reliable meters, and a comparable control area. Define a walkable intervention zone and protect access for vulnerable users.

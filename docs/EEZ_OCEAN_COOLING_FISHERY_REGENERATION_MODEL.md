@@ -1,5 +1,7 @@
 # EEZ Ocean Cooling and Fishery Regeneration Model
 
+[日本語版はこちら / Japanese version](EEZ_OCEAN_COOLING_FISHERY_REGENERATION_MODEL_ja.md)
+
 ## Purpose
 
 This document defines an **Exclusive Economic Zone (EEZ) ocean cooling and fishery regeneration model** for Cooling Credit implementation.

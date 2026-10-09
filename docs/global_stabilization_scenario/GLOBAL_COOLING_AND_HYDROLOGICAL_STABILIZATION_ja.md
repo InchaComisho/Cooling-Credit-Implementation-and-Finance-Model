@@ -1,5 +1,7 @@
 # 全球冷却・水循環安定化
 
+[English Version](GLOBAL_COOLING_AND_HYDROLOGICAL_STABILIZATION.md)
+
 ## 核心的な解釈：地球本来の冷却機能を再起動する
 
 温暖化とは、単にCO₂濃度の上昇によって気温が上がる問題ではない。  

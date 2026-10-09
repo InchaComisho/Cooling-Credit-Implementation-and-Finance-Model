@@ -1,5 +1,7 @@
 # Cooling Credit Simulation Package
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 These deterministic Python 3 models compare no-action burdens with implementation scenarios. They use transparent illustrative assumptions and common libraries only.
 
 ## One-Page Results Overview

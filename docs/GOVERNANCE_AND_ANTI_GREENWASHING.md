@@ -1,5 +1,7 @@
 # Cooling Credit Governance and Anti-Greenwashing Model
 
+[日本語版はこちら / Japanese version](GOVERNANCE_AND_ANTI_GREENWASHING_ja.md)
+
 This document defines governance principles for preventing Cooling Credits from becoming vague ESG labels, speculative certificates, or emission-offset excuses.
 
 Cooling Credits must remain connected to measured physical cooling outcomes and restoration of natural cooling functions.

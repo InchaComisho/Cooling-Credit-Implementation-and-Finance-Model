@@ -1,5 +1,7 @@
 # Dryland Ultrasonic Mist Cooling Scenario
 
+[日本語版はこちら / Japanese version](DRYLAND_ULTRASONIC_MIST_COOLING_SCENARIO_ja.md)
+
 ## Concept
 
 In drylands and desert-edge regions, ultrasonic mist cooling may create localized evaporative cooling when water is available through desalination, recycled water, brackish-water treatment, or seasonal storage. If deployed over many distributed nodes, this may lower local surface and near-surface air temperature, support humidity gradients, and potentially contribute to atmospheric mixing and convective development. This is a monitored hypothesis, not a rainfall promise.

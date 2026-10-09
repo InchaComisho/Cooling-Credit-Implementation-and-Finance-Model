@@ -1,5 +1,7 @@
 # Cooling Credit Investor and SPV Model
 
+[日本語版はこちら / Japanese version](INVESTOR_AND_SPV_MODEL_ja.md)
+
 ## Financing architecture
 
 ```text

@@ -1,5 +1,7 @@
 # Forest Conversion Business Simulation
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 This simulation supports the business model for converting abandoned or monoculture mountain forests into native-fruit mixed forests, watershed forests, mushroom forests, wild edible forests, tourism forests, and biodiversity / cooling assets.
 
 It corresponds to the business model:

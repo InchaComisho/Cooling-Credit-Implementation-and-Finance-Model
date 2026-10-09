@@ -1,5 +1,7 @@
 # Global Cooling and Hydrological Stabilization Scenario
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 Local simulations are useful but incomplete. A small city, farm, flood zone, or finance portfolio can measure direct outcomes, yet cannot reveal continental atmospheric or hydrological feedback. The full value of Cooling Credits may appear only when many independently verified projects operate across cities, drylands, farms, forests, coasts, and oceans.
 
 > Disasters cannot be eliminated. However, if global heat load, land-surface overheating, dryland heat accumulation, and water-cycle imbalance are reduced, the scale, concentration, and extremity of some climate-related disasters may be moderated. Cooling Credits should therefore be evaluated not only as local cost-benefit projects, but also as distributed components of planetary cooling and hydrological stabilization.

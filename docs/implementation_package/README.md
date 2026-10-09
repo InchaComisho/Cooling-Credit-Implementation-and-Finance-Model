@@ -1,5 +1,7 @@
 # Cooling Credit Implementation Roadmap and Simulation Package
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 This package translates the Cooling Credit concept into practical materials for municipalities, governments, insurers, communities, and capital providers.
 
 > Cooling Credits are not donations. They are prepaid risk-reduction investments.

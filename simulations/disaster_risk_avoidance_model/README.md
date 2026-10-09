@@ -1,5 +1,7 @@
 # Disaster Risk Avoidance Simulation
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 ## Purpose and why it matters
 
 Estimates how infiltration, storage, and green infrastructure change runoff and expected flood loss over 20 years. It makes upfront cost and delayed avoided loss visible in one consistent appraisal.

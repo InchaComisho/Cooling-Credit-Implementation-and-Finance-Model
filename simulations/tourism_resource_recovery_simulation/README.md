@@ -1,5 +1,7 @@
 # Tourism Resource Recovery Simulation
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 This simulation supports the Cooling Credit business model for recovering tourism resources through natural cooling, water-cycle recovery, landscape restoration, biodiversity recovery, and local economic revitalization.
 
 It corresponds to the business model:

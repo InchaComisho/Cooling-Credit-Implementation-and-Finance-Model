@@ -1,5 +1,7 @@
 # Global Cooling and Hydrological Stabilization Simulation
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 > **Warning:** This is not a physical climate model. It is a conceptual risk-pressure model for comparing local and global implementation scales.
 
 ## Purpose

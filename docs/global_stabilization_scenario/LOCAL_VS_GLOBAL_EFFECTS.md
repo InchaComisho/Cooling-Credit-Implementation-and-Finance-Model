@@ -1,5 +1,7 @@
 # Local Versus Global Cooling Credit Effects
 
+[日本語版はこちら / Japanese version](LOCAL_VS_GLOBAL_EFFECTS_ja.md)
+
 Current simulation graphs can look modest because they measure bounded project economics:
 
 1. A single city project does not change regional climate.

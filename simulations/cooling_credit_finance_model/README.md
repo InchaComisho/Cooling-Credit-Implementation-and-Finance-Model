@@ -1,5 +1,7 @@
 # Cooling Credit Finance Simulation
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 ## Purpose and why it matters
 
 Models a 20-year SPV revenue stack, costs, reserves, community return, and investor distributable cash flow. It makes upfront cost and delayed avoided loss visible in one consistent appraisal.

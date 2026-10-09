@@ -1,5 +1,7 @@
 # Soil Recovery Agriculture Simulation
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 ## Purpose and why it matters
 
 Compares degraded and restored soil using expected yield, drought loss, moisture, input savings, and farm cash flow. It makes upfront cost and delayed avoided loss visible in one consistent appraisal.

@@ -1,5 +1,7 @@
 # Cooling Credit Natural Feedback Simulation
 
+[日本語版はこちら / Japanese version](COOLING_CREDIT_NATURAL_FEEDBACK_SIMULATION_ja.md)
+
 ## Purpose
 
 This document defines a conceptual simulation model for comparing **carbon-credit-style accounting systems** with **Cooling Credit systems based on physical cooling and natural feedback restoration**.

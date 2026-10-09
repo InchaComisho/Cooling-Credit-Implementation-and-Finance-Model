@@ -1,5 +1,7 @@
 # Insurance and Cooling Credit Risk-Reduction Model
 
+[日本語版はこちら / Japanese version](INSURANCE_AND_RISK_REDUCTION_MODEL_ja.md)
+
 ## Insurance proposition
 
 If heat, flood, drought, and infrastructure risks can be measurably reduced, insurers and reinsurers can treat Cooling Credit projects as risk-reduction investments—not as proof that all claims will fall.

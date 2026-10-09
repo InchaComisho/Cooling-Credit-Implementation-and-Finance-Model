@@ -1,5 +1,7 @@
 # Cooling Credit Revenue and Maintenance Flow
 
+[日本語版はこちら / Japanese version](REVENUE_AND_MAINTENANCE_FLOW_ja.md)
+
 This document defines how revenue from Cooling Credits should be circulated back into operation, maintenance, MRV, community benefit, and reinvestment.
 
 A Cooling Credit system becomes credible only when revenue does not stop at certificate issuance. It must support the physical systems that continue to produce cooling outcomes.

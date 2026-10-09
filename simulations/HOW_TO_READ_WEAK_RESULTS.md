@@ -1,5 +1,7 @@
 # How to Read Weak Results
 
+[日本語版はこちら / Japanese version](HOW_TO_READ_WEAK_RESULTS_ja.md)
+
 Conceptual Cooling Credit simulations do not require every project to pay back quickly. A weak result is decision information, not something to hide.
 
 ## 1. Weak results are not failure

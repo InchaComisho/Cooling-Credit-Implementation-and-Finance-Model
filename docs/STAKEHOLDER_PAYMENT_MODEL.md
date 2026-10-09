@@ -1,5 +1,7 @@
 # Cooling Credit Stakeholder Payment Model
 
+[日本語版はこちら / Japanese version](STAKEHOLDER_PAYMENT_MODEL_ja.md)
+
 This document explains **who can pay for Cooling Credits, why they would pay, and what kind of outcome they should receive in return**.
 
 Cooling Credits should not rely only on voluntary goodwill. They become durable when the payer has a rational reason to fund measurable cooling outcomes.

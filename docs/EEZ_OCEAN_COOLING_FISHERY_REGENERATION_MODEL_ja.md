@@ -1,5 +1,7 @@
 # 排他水域における海洋冷却・漁業再生モデル
 
+[English Version](EEZ_OCEAN_COOLING_FISHERY_REGENERATION_MODEL.md)
+
 ## 目的
 
 本書は、クーリングクレジット実装における **排他水域（EEZ）海洋冷却・漁業再生モデル** を定義する。

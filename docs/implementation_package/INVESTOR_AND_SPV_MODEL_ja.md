@@ -1,5 +1,7 @@
 # クーリングクレジット投資家・SPVモデル
 
+[English Version](INVESTOR_AND_SPV_MODEL.md)
+
 ## 資金構造
 
 ```text

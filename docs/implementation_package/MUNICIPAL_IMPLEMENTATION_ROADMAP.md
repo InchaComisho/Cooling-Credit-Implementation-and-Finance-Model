@@ -1,5 +1,7 @@
 # Municipal Cooling Credit Implementation Roadmap
 
+[日本語版はこちら / Japanese version](MUNICIPAL_IMPLEMENTATION_ROADMAP_ja.md)
+
 ## Objective and outcome logic
 
 Municipalities can redirect part of future heat, health, energy, and disaster burdens into preventive assets. The causal chain is: shaded and water-sensitive places → lower heat exposure and runoff → lower medical cost, cooling demand, and disaster burden → verified outcomes eligible for outcome finance.

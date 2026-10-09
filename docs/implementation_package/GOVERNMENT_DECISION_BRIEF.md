@@ -1,5 +1,7 @@
 # Government Decision Brief: Cooling Credits as Prepaid Risk Reduction
 
+[日本語版はこちら / Japanese version](GOVERNMENT_DECISION_BRIEF_ja.md)
+
 ## Decision
 
 Authorize a bounded, independently evaluated municipal pilot and a cross-agency baseline. Do not begin with a broad credit mandate.

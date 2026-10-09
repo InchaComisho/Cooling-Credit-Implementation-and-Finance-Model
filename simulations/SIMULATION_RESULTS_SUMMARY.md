@@ -1,5 +1,7 @@
 # Cooling Credit Simulation Results Summary
 
+[日本語版はこちら / Japanese version](SIMULATION_RESULTS_SUMMARY_ja.md)
+
 Default assumptions produce modest and mixed results. The purpose is not to guarantee outcomes, but to show why local MRV data, pilot projects, and explicit no-action costs are necessary.
 
 | Simulation | Default Payback | Main Finding | Interpretation |

@@ -1,5 +1,7 @@
 # Natural Feedback Cooling Simulation
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 This module compares a carbon-credit-style accounting scenario with Cooling Credit implementation scenarios based on physical cooling, soil-water recovery, evapotranspiration, organic-waste-to-humus conversion, forest regeneration, EEZ ocean cooling, oxygenation, fishery recovery, coastal desert-edge regeneration, underground settlement efficiency, and local economic co-benefits.
 
 ## Result Pages

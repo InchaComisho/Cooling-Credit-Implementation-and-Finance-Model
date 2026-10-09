@@ -1,5 +1,7 @@
 # Urban Cooling Cost-Benefit Simulation
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 ## Purpose and why it matters
 
 Compares medical, cooling-energy, and heat-disaster costs under no action with a 20-year cooling intervention, costs, and credit revenue. It makes upfront cost and delayed avoided loss visible in one consistent appraisal.

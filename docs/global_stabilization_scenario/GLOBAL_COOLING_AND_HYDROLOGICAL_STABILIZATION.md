@@ -1,5 +1,7 @@
 # Global Cooling and Hydrological Stabilization
 
+[日本語版はこちら / Japanese version](GLOBAL_COOLING_AND_HYDROLOGICAL_STABILIZATION_ja.md)
+
 ## Core Interpretation: Restarting Earth's Natural Cooling Functions
 
 Global warming is not only a problem of rising temperature caused by increased CO₂ concentration.  
