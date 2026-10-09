@@ -1,7 +1,7 @@
 # 実装フレームワーク
 ## Cooling Credit Implementation Framework
 
-[English](IMPLEMENTATION_FRAMEWORK.md) | [日本語](IMPLEMENTATION_FRAMEWORK_ja.md) | [العربية](IMPLEMENTATION_FRAMEWORK_ar.md)
+[English](IMPLEMENTATION_FRAMEWORK_ja.md) | [日本語](IMPLEMENTATION_FRAMEWORK_ja.md) | [العربية](IMPLEMENTATION_FRAMEWORK_ar.md)
 
 [詳細文書索引](README_ja.md) | [ルートREADME](../README_ja.md)
 

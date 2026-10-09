@@ -50,7 +50,7 @@ CO₂削減は必要である。
 
 ## 代表グラフについて
 
-グラフ画像と図表ラベルは英語版のみで作成している。図表を確認する場合は、[English README](README.md) または `../../simulations/global_cooling_hydrological_stabilization_model/outputs/` ディレクトリを参照する。
+グラフ画像と図表ラベルは英語版のみで作成している。図表を確認する場合は、[English README](README_ja.md) または `../../simulations/global_cooling_hydrological_stabilization_model/outputs/` ディレクトリを参照する。
 
 ---
 

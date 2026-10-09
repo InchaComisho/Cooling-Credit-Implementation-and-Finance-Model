@@ -1,7 +1,7 @@
 # 金融商品化と法制度上の注意
 ## Legal and Financial Notes for Cooling Credit Models
 
-[English](LEGAL_AND_FINANCIAL_NOTES.md) | [日本語](LEGAL_AND_FINANCIAL_NOTES_ja.md) | [العربية](LEGAL_AND_FINANCIAL_NOTES_ar.md)
+[English](LEGAL_AND_FINANCIAL_NOTES_ja.md) | [日本語](LEGAL_AND_FINANCIAL_NOTES_ja.md) | [العربية](LEGAL_AND_FINANCIAL_NOTES_ar.md)
 
 [詳細文書索引](README_ja.md) | [ルートREADME](../README_ja.md)
 

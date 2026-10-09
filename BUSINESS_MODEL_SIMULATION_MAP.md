@@ -1,5 +1,7 @@
 # Business Model Simulation Map
 
+[日本語版はこちら / Japanese version](BUSINESS_MODEL_SIMULATION_MAP_ja.md)
+
 [Simulation Results Overview](SIMULATION_RESULTS_OVERVIEW.md) | [Simulation Package](simulations/README.md) | [Cooling Credit Framework Business Models](https://github.com/InchaComisho/Cooling-Credit-Framework/tree/main/docs/business_models)
 
 Languages: [English](SIMULATION_RESULTS_OVERVIEW.md) | [日本語](SIMULATION_RESULTS_OVERVIEW_ja.md) | [العربية](SIMULATION_RESULTS_OVERVIEW_ar.md)

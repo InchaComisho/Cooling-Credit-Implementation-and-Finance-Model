@@ -1,6 +1,6 @@
 # 土壌回復農業シミュレーション
 
-[English](README.md) | [日本語](README_ja.md) | [العربية](README_ar.md)
+[English](README_ja.md) | [日本語](README_ja.md) | [العربية](README_ar.md)
 
 ## 目的
 

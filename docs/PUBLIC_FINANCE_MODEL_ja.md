@@ -1,7 +1,7 @@
 # 公的資金・防災金融モデル
 ## Cooling Credit Public Finance and Disaster-Prevention Finance Model
 
-[English](PUBLIC_FINANCE_MODEL.md) | [日本語](PUBLIC_FINANCE_MODEL_ja.md) | [العربية](PUBLIC_FINANCE_MODEL_ar.md)
+[English](PUBLIC_FINANCE_MODEL_ja.md) | [日本語](PUBLIC_FINANCE_MODEL_ja.md) | [العربية](PUBLIC_FINANCE_MODEL_ar.md)
 
 [詳細文書索引](README_ja.md) | [ルートREADME](../README_ja.md)
 

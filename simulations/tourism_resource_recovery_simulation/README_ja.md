@@ -1,6 +1,6 @@
 # 観光資源回復シミュレーション
 
-[English](README.md) | [日本語](README_ja.md) | [العربية](README_ar.md)
+[English](README_ja.md) | [日本語](README_ja.md) | [العربية](README_ar.md)
 
 このシミュレーションは、自然冷却・水循環回復・景観再生・生物多様性回復・地域経済活性化を通じた観光資源回復のクーリングクレジット事業モデルを支援する。
 
